@@ -1,0 +1,2016 @@
+{
+  "assets": [
+    {
+      "asset": "chromium__154.0.8037.92-1-deb13u1__e347d1dca5a2__chromium_154.0.8037.92-1-deb13u1.debian.tar.xz",
+      "bytes": 575700,
+      "project": "chromium",
+      "sha256": "e347d1dca5a28add92495339bd528be6c8cbdd771427dd6d5b354c85e8e44909",
+      "source_url": "https://snapshot.debian.org/file/c26330e333ecd800d9c3b70714ea68302e532a28",
+      "version": "154.0.8037.92-1~deb13u1"
+    },
+    {
+      "asset": "chromium__154.0.8037.92-1-deb13u1__c5838ef54aaf__chromium_154.0.8037.92-1-deb13u1.dsc",
+      "bytes": 4415,
+      "project": "chromium",
+      "sha256": "c5838ef54aafb5ab925f7acb7b82d41fa599b6dff0f96b80c1862030697afbd7",
+      "source_url": "https://snapshot.debian.org/file/47014e543c8e6ddbeadfb0c6007c3905d0af74c3",
+      "version": "154.0.8037.92-1~deb13u1"
+    },
+    {
+      "asset": "chromium__154.0.8037.92-1-deb13u1__d8316f2d3cbe__chromium_154.0.8037.92.orig-pre-gen.tar.xz",
+      "bytes": 16689032,
+      "project": "chromium",
+      "sha256": "d8316f2d3cbe1ab942629b9b1044166f33ca9575478feac814a31463c81e8cbe",
+      "source_url": "https://snapshot.debian.org/file/971bd0c616f73b93c555e45aaafea6a7b4bf33d3",
+      "version": "154.0.8037.92-1~deb13u1"
+    },
+    {
+      "asset": "chromium__154.0.8037.92-1-deb13u1__d5a37fdb95f8__chromium_154.0.8037.92.orig.tar.xz",
+      "bytes": 995122080,
+      "project": "chromium",
+      "sha256": "d5a37fdb95f8c2d24f505f36824540158367d20101f47623e93670cbda006e7e",
+      "source_url": "https://snapshot.debian.org/file/eab6649cbb68eeb184a5a899fda828988ac0b608",
+      "version": "154.0.8037.92-1~deb13u1"
+    },
+    {
+      "asset": "ghostscript__10.05.1-dfsg-1+deb13u2__ca55202d500a__ghostscript_10.05.1-dfsg-1+deb13u2.debian.tar.xz",
+      "bytes": 89432,
+      "project": "ghostscript",
+      "sha256": "ca55202d500a6907f62740419e7666e402098f38954ea8c69f85820dda5c27ad",
+      "source_url": "https://snapshot.debian.org/file/040fd51b529878ef56dda6f7d2186fd8191fd4d8",
+      "version": "10.05.1~dfsg-1+deb13u2"
+    },
+    {
+      "asset": "ghostscript__10.05.1-dfsg-1+deb13u2__0f829e4da27f__ghostscript_10.05.1-dfsg-1+deb13u2.dsc",
+      "bytes": 3052,
+      "project": "ghostscript",
+      "sha256": "0f829e4da27f523e4067d1058b4cf9033d4731ba4a0d269a5fc01b7ee1578847",
+      "source_url": "https://snapshot.debian.org/file/9d51b4ddf40c8be35d8de82ebf91ee6ba9248bb9",
+      "version": "10.05.1~dfsg-1+deb13u2"
+    },
+    {
+      "asset": "glib2.0__2.80.0-6ubuntu3.9__b86a66201ce7__glib2.0_2.80.0-6ubuntu3.9.debian.tar.xz",
+      "bytes": 178288,
+      "project": "glib2.0",
+      "sha256": "b86a66201ce7957256126e4cd69248848ce61a9330891f24df3bc0859d1ca542",
+      "source_url": "https://launchpad.net/ubuntu/+archive/primary/+sourcefiles/glib2.0/2.80.0-6ubuntu3.9/glib2.0_2.80.0-6ubuntu3.9.debian.tar.xz",
+      "version": "2.80.0-6ubuntu3.9"
+    },
+    {
+      "asset": "glib2.0__2.80.0-6ubuntu3.9__b70034bf6d40__glib2.0_2.80.0-6ubuntu3.9.dsc",
+      "bytes": 4542,
+      "project": "glib2.0",
+      "sha256": "b70034bf6d40d9e1386c31e1cae6ce224a95660e473521aa065d163bdd491722",
+      "source_url": "https://launchpad.net/ubuntu/+archive/primary/+sourcefiles/glib2.0/2.80.0-6ubuntu3.9/glib2.0_2.80.0-6ubuntu3.9.dsc",
+      "version": "2.80.0-6ubuntu3.9"
+    },
+    {
+      "asset": "jbig2dec__0.20-1+deb13u1__130b542458b2__jbig2dec_0.20-1+deb13u1.debian.tar.xz",
+      "bytes": 22468,
+      "project": "jbig2dec",
+      "sha256": "130b542458b21b5c54f98aeb79ce58c0e793fd0c3fe10745df9046b49704bba6",
+      "source_url": "https://snapshot.debian.org/file/91576fa53056792b35ac380aa668a72918652e08",
+      "version": "0.20-1+deb13u1"
+    },
+    {
+      "asset": "jbig2dec__0.20-1+deb13u1__ab80643a90f1__jbig2dec_0.20-1+deb13u1.dsc",
+      "bytes": 2107,
+      "project": "jbig2dec",
+      "sha256": "ab80643a90f118ff818cda5185aae4cc794e502e0f564d543227b23997847ffc",
+      "source_url": "https://snapshot.debian.org/file/79bde0dcf746aa3c660007edf0dd82fc8365f5b5",
+      "version": "0.20-1+deb13u1"
+    },
+    {
+      "asset": "jq__1.7.1-6+deb13u4__212a072699df__jq_1.7.1-6+deb13u4.debian.tar.xz",
+      "bytes": 35488,
+      "project": "jq",
+      "sha256": "212a072699dfaaff63406ce9f846827ba00b048726f1c644d159cffb1008b067",
+      "source_url": "https://snapshot.debian.org/file/87eca0e72d5002a02196d5568d58c6c76d3d64d0",
+      "version": "1.7.1-6+deb13u4"
+    },
+    {
+      "asset": "jq__1.7.1-6+deb13u4__5d569aab6380__jq_1.7.1-6+deb13u4.dsc",
+      "bytes": 1687,
+      "project": "jq",
+      "sha256": "5d569aab638047a984eb5df48943d626083fced2ed7bd85e1ce21228504c787f",
+      "source_url": "https://snapshot.debian.org/file/0d3d6e312f746145837d1d1c43e88e79abb2965a",
+      "version": "1.7.1-6+deb13u4"
+    },
+    {
+      "asset": "libde265__1.0.15-1+deb13u2__108b5d4d7124__libde265_1.0.15-1+deb13u2.debian.tar.xz",
+      "bytes": 145468,
+      "project": "libde265",
+      "sha256": "108b5d4d71243554110e2899e20d3f409c8368573bfddc98473eb1637b902ba9",
+      "source_url": "https://snapshot.debian.org/file/0bded94e35ea188170628be6af9314ca54a76dd2",
+      "version": "1.0.15-1+deb13u2"
+    },
+    {
+      "asset": "libde265__1.0.15-1+deb13u2__d85412b00d6e__libde265_1.0.15-1+deb13u2.dsc",
+      "bytes": 2249,
+      "project": "libde265",
+      "sha256": "d85412b00d6e52e12ca5ecb5003dfd3cd48da5f26a0f7a8ee63336289ecf6393",
+      "source_url": "https://snapshot.debian.org/file/c0405ac8515e8489c93ff67b75c15000f7745e00",
+      "version": "1.0.15-1+deb13u2"
+    },
+    {
+      "asset": "libheif__1.23.4-1-deb13u1__5102677f6e7e__libheif_1.23.4-1-deb13u1.debian.tar.xz",
+      "bytes": 15552,
+      "project": "libheif",
+      "sha256": "5102677f6e7e98b9b80d19e7579617ae07fe56199e9c9ce91ce59c1e7a6e24aa",
+      "source_url": "https://snapshot.debian.org/file/5b2ba1570b30816b0e1797aabf96fef6cd900ce3",
+      "version": "1.23.4-1~deb13u1"
+    },
+    {
+      "asset": "libheif__1.23.4-1-deb13u1__6bf7fbd3de53__libheif_1.23.4-1-deb13u1.dsc",
+      "bytes": 3377,
+      "project": "libheif",
+      "sha256": "6bf7fbd3de53ba819c770f07946e20123ed460f3d8eabe579f22218c96bf82c1",
+      "source_url": "https://snapshot.debian.org/file/8c768cc496e429d07d17da27708379ff0fac421e",
+      "version": "1.23.4-1~deb13u1"
+    },
+    {
+      "asset": "libheif__1.23.4-1-deb13u1__d0c02b4b0e97__libheif_1.23.4.orig.tar.gz",
+      "bytes": 2217221,
+      "project": "libheif",
+      "sha256": "d0c02b4b0e978f34a1974b6f3eea7975a537bf7a9195ffeea38e7242ff316fdd",
+      "source_url": "https://snapshot.debian.org/file/f8ab778f373973dcada7c77236d711e1310cc26a",
+      "version": "1.23.4-1~deb13u1"
+    },
+    {
+      "asset": "libpng1.6__1.6.48-1+deb13u6__26a8f1c2bed9__libpng1.6_1.6.48-1+deb13u6.debian.tar.xz",
+      "bytes": 53284,
+      "project": "libpng1.6",
+      "sha256": "26a8f1c2bed971ad68d3549b7cd9b517e8f2ed2f23f75a7ac348452e25c87133",
+      "source_url": "https://snapshot.debian.org/file/2d82bfd126f10845ec1a24d1849f8afc984c661b",
+      "version": "1.6.48-1+deb13u6"
+    },
+    {
+      "asset": "libpng1.6__1.6.48-1+deb13u6__6eb8e2cb5d3f__libpng1.6_1.6.48-1+deb13u6.dsc",
+      "bytes": 2286,
+      "project": "libpng1.6",
+      "sha256": "6eb8e2cb5d3fdaf0b2381058906d0003c1667295eb4b965c9c653336e61872ae",
+      "source_url": "https://snapshot.debian.org/file/c6efb4301f70fad5ed6d39e01790467a10661ad3",
+      "version": "1.6.48-1+deb13u6"
+    },
+    {
+      "asset": "linux__6.12.111-1__e0146c63a700__linux_6.12.111-1.debian.tar.xz",
+      "bytes": 1933512,
+      "project": "linux",
+      "sha256": "e0146c63a70014f23141fe3e4e830e8a5b2627427d449f3e5415d930016be297",
+      "source_url": "https://snapshot.debian.org/file/590c4d813787722dcbf6c3c016d309d88cc658ce",
+      "version": "6.12.111-1"
+    },
+    {
+      "asset": "linux__6.12.111-1__6935287a25ed__linux_6.12.111-1.dsc",
+      "bytes": 290418,
+      "project": "linux",
+      "sha256": "6935287a25ed12865714b53cb936959db5875ee025abdaadea8df6335fe74d55",
+      "source_url": "https://snapshot.debian.org/file/c2774f34fc180177a80a02bddb1afac503eee67b",
+      "version": "6.12.111-1"
+    },
+    {
+      "asset": "linux__6.12.111-1__716516cd85c3__linux_6.12.111.orig.tar.xz",
+      "bytes": 151518968,
+      "project": "linux",
+      "sha256": "716516cd85c3ff9e5c197203730b698ad7c0fb4c6c2d1d1e44ab3ced2faba178",
+      "source_url": "https://snapshot.debian.org/file/4b675d7515be469cee00db1ad4301ed5d2f4e7b3",
+      "version": "6.12.111-1"
+    },
+    {
+      "asset": "linux-signed-amd64__6.12.111+1__9d363423b9ee__linux-signed-amd64_6.12.111+1.dsc",
+      "bytes": 10935,
+      "project": "linux-signed-amd64",
+      "sha256": "9d363423b9ee129e18e04717bbe5fe0276c499c5539cfa42d88a3bf6032ba869",
+      "source_url": "https://snapshot.debian.org/file/1dc1e1c490f5f5fb9eabbd6d86d1dc5543ab55da",
+      "version": "6.12.111+1"
+    },
+    {
+      "asset": "linux-signed-amd64__6.12.111+1__8b4e81d1bf89__linux-signed-amd64_6.12.111+1.tar.xz",
+      "bytes": 1054416,
+      "project": "linux-signed-amd64",
+      "sha256": "8b4e81d1bf892396ab2a0d2a22a6c9dee18518cd0f7f27f6aa9c59dcfeeab850",
+      "source_url": "https://snapshot.debian.org/file/81dadaaf373f88093c2ba94e3b1460e111d7f6bd",
+      "version": "6.12.111+1"
+    },
+    {
+      "asset": "nginx__1.26.3-3+deb13u9__860b84ea2e0b__nginx_1.26.3-3+deb13u9.debian.tar.xz",
+      "bytes": 103108,
+      "project": "nginx",
+      "sha256": "860b84ea2e0b394ef2124ce118f9479eea7e63d9a6c6991e5b965e7c21a4a407",
+      "source_url": "https://snapshot.debian.org/file/fef7d98e84ad3be1af8d19c6aaacb253179d8cd2",
+      "version": "1.26.3-3+deb13u9"
+    },
+    {
+      "asset": "nginx__1.26.3-3+deb13u9__ede21ae86c60__nginx_1.26.3-3+deb13u9.dsc",
+      "bytes": 3473,
+      "project": "nginx",
+      "sha256": "ede21ae86c60e8be4112f871d319724d19c0f1b3b1840aa9abbcce4c1a7244b9",
+      "source_url": "https://snapshot.debian.org/file/c5290c39a068ff2a152ae0617092f78a39b45e63",
+      "version": "1.26.3-3+deb13u9"
+    },
+    {
+      "asset": "rsync__3.5.0+ds1-0+deb13u1__27036137efd6__rsync_3.5.0+ds1-0+deb13u1.debian.tar.xz",
+      "bytes": 85164,
+      "project": "rsync",
+      "sha256": "27036137efd6caea01f34d54192a331142ad96422da2e950088928e247d83282",
+      "source_url": "https://snapshot.debian.org/file/91582d0d867d50cc872adc73f19c7ddf75ec7e01",
+      "version": "3.5.0+ds1-0+deb13u1"
+    },
+    {
+      "asset": "rsync__3.5.0+ds1-0+deb13u1__9816f4499119__rsync_3.5.0+ds1-0+deb13u1.dsc",
+      "bytes": 2201,
+      "project": "rsync",
+      "sha256": "9816f4499119c8c9b8f746939342d683320ceca9be4070e3336c62f8a108a2e1",
+      "source_url": "https://snapshot.debian.org/file/36e68cccbadfb3bd22f0bfe5253580b510d903de",
+      "version": "3.5.0+ds1-0+deb13u1"
+    },
+    {
+      "asset": "rsync__3.5.0+ds1-0+deb13u1__d5de0c8a95b0__rsync_3.5.0+ds1.orig.tar.xz",
+      "bytes": 1135808,
+      "project": "rsync",
+      "sha256": "d5de0c8a95b00e0f50038ba04526bcbd5fe4f3ff97b4035bb97b084398bfbb60",
+      "source_url": "https://snapshot.debian.org/file/a7825c2f75be948bc1c9ad145f4273ca9a074751",
+      "version": "3.5.0+ds1-0+deb13u1"
+    },
+    {
+      "asset": "rust-aho-corasick__1.1.3-1__88f32007e98e__rust-aho-corasick_1.1.3-1.debian.tar.xz",
+      "bytes": 3900,
+      "project": "rust-aho-corasick",
+      "sha256": "88f32007e98ea9aa3aa204bc77fd9bf675a16e2e867e19c569cac46174e25073",
+      "source_url": "https://snapshot.debian.org/file/8d01cc216ac1eec3fac1ed6c964ef288d2c02cec",
+      "version": "1.1.3-1"
+    },
+    {
+      "asset": "rust-aho-corasick__1.1.3-1__cbf161d93f0a__rust-aho-corasick_1.1.3-1.dsc",
+      "bytes": 1820,
+      "project": "rust-aho-corasick",
+      "sha256": "cbf161d93f0afe1eab4799e264ef8923f06de313e1a3b63d1b80103d69c21443",
+      "source_url": "https://snapshot.debian.org/file/5497606c8fab34c709efbaf8228352d7b865d6f6",
+      "version": "1.1.3-1"
+    },
+    {
+      "asset": "rust-aho-corasick__1.1.3-1__8e60d3430d3a__rust-aho-corasick_1.1.3.orig.tar.gz",
+      "bytes": 183311,
+      "project": "rust-aho-corasick",
+      "sha256": "8e60d3430d3a69478ad0993f19238d2df97c507009a52b3c10addcd7f6bcb916",
+      "source_url": "https://snapshot.debian.org/file/3eb89609db4e62300343906a316b8f3d6abbcd32",
+      "version": "1.1.3-1"
+    },
+    {
+      "asset": "rust-anstream__0.6.15-1__ed2b979e85fc__rust-anstream_0.6.15-1.debian.tar.xz",
+      "bytes": 4164,
+      "project": "rust-anstream",
+      "sha256": "ed2b979e85fc0aa0d434f4b31cfaa84c8561ed44818cf4d7755d8851a1248a7a",
+      "source_url": "https://snapshot.debian.org/file/742a791fe4ffc76f19c7e6c0e7c89ce1b3a44335",
+      "version": "0.6.15-1"
+    },
+    {
+      "asset": "rust-anstream__0.6.15-1__7bf37fe0cf8c__rust-anstream_0.6.15-1.dsc",
+      "bytes": 2663,
+      "project": "rust-anstream",
+      "sha256": "7bf37fe0cf8cc662bb5034c43dfb7fa6c9ae2be2b9fa82cb2d4a1a45ad15b953",
+      "source_url": "https://snapshot.debian.org/file/be5e4ebbd963949ef3ca7491d95625aa7ce0cacb",
+      "version": "0.6.15-1"
+    },
+    {
+      "asset": "rust-anstream__0.6.15-1__64e15c1ab1f8__rust-anstream_0.6.15.orig.tar.gz",
+      "bytes": 29231,
+      "project": "rust-anstream",
+      "sha256": "64e15c1ab1f89faffbf04a634d5e1962e9074f2741eef6d97f3c4e322426d526",
+      "source_url": "https://snapshot.debian.org/file/8b2ce21cd54be50618935794a1f1e176a4ae0ad0",
+      "version": "0.6.15-1"
+    },
+    {
+      "asset": "rust-anstyle__1.0.8-1__fdc6c688f984__rust-anstyle_1.0.8-1.debian.tar.xz",
+      "bytes": 2708,
+      "project": "rust-anstyle",
+      "sha256": "fdc6c688f98483253db68d934c4403c30bbf76aca4e52048060aa03996a88aff",
+      "source_url": "https://snapshot.debian.org/file/ff6d81b76ccd295fc7bed9bc16ab483d1abb0ec1",
+      "version": "1.0.8-1"
+    },
+    {
+      "asset": "rust-anstyle__1.0.8-1__07f24d2f671b__rust-anstyle_1.0.8-1.dsc",
+      "bytes": 2232,
+      "project": "rust-anstyle",
+      "sha256": "07f24d2f671b035dd858eb88a6b134d58bd70a924226ec29470748152190ce23",
+      "source_url": "https://snapshot.debian.org/file/e6bfc15da6fabc7bef4dd154c7198b5bf9cd9a86",
+      "version": "1.0.8-1"
+    },
+    {
+      "asset": "rust-anstyle__1.0.8-1__1bec1de6f59a__rust-anstyle_1.0.8.orig.tar.gz",
+      "bytes": 15771,
+      "project": "rust-anstyle",
+      "sha256": "1bec1de6f59aedf83baf9ff929c98f2ad654b97c9510f4e70cf6f661d49fd5b1",
+      "source_url": "https://snapshot.debian.org/file/c1f1acd629abaf01a71567651763c6a13a5fd5fd",
+      "version": "1.0.8-1"
+    },
+    {
+      "asset": "rust-anstyle-parse__0.2.1-1__11943a37abda__rust-anstyle-parse_0.2.1-1.debian.tar.xz",
+      "bytes": 2816,
+      "project": "rust-anstyle-parse",
+      "sha256": "11943a37abdafa1c97c3fbf3e69713da9d245e0f8ef135e074c33cd724e28969",
+      "source_url": "https://snapshot.debian.org/file/a7b98677f79ebac7a8ae568ffccb5b109bd6496a",
+      "version": "0.2.1-1"
+    },
+    {
+      "asset": "rust-anstyle-parse__0.2.1-1__b396f3b93bcd__rust-anstyle-parse_0.2.1-1.dsc",
+      "bytes": 2502,
+      "project": "rust-anstyle-parse",
+      "sha256": "b396f3b93bcdd3a0a53038627ca8620c5217d259b1ae38942c386684e581c9ae",
+      "source_url": "https://snapshot.debian.org/file/2fb44eb3a9329fe21f569e0bcec48db30f5a7876",
+      "version": "0.2.1-1"
+    },
+    {
+      "asset": "rust-anstyle-parse__0.2.1-1__938874ff5980__rust-anstyle-parse_0.2.1.orig.tar.gz",
+      "bytes": 24802,
+      "project": "rust-anstyle-parse",
+      "sha256": "938874ff5980b03a87c5524b3ae5b59cf99b1d6bc836848df7bc5ada9643c333",
+      "source_url": "https://snapshot.debian.org/file/3e7fb869d2d911449861ec929dfc40066502e8ac",
+      "version": "0.2.1-1"
+    },
+    {
+      "asset": "rust-anstyle-query__1.0.0-1__a07155c10908__rust-anstyle-query_1.0.0-1.debian.tar.xz",
+      "bytes": 2888,
+      "project": "rust-anstyle-query",
+      "sha256": "a07155c10908d1a0411a97132d8e81c436c6fb997d78152d9268698ff9166314",
+      "source_url": "https://snapshot.debian.org/file/ae3e3ddb0fdae3be7580ad5ebc942948d2d50424",
+      "version": "1.0.0-1"
+    },
+    {
+      "asset": "rust-anstyle-query__1.0.0-1__27dbc0bf61bc__rust-anstyle-query_1.0.0-1.dsc",
+      "bytes": 2176,
+      "project": "rust-anstyle-query",
+      "sha256": "27dbc0bf61bce902be1562aa57022bdedaf87a00059292676882f7640d90a901",
+      "source_url": "https://snapshot.debian.org/file/f3bfbed825d1c2845b60d9369225e27ebbcbf6ad",
+      "version": "1.0.0-1"
+    },
+    {
+      "asset": "rust-anstyle-query__1.0.0-1__5ca11d4be1ba__rust-anstyle-query_1.0.0.orig.tar.gz",
+      "bytes": 8620,
+      "project": "rust-anstyle-query",
+      "sha256": "5ca11d4be1bab0c8bc8734a9aa7bf4ee8316d462a08c6ac5052f888fef5b494b",
+      "source_url": "https://snapshot.debian.org/file/10c2f322092f9789ad427433debd6907074d6fc6",
+      "version": "1.0.0-1"
+    },
+    {
+      "asset": "rust-anyhow__1.0.95-1__bcdc9c5144c9__rust-anyhow_1.0.95-1.debian.tar.xz",
+      "bytes": 3452,
+      "project": "rust-anyhow",
+      "sha256": "bcdc9c5144c95c22c7e098ca29e8227fe36a273701d531e19498aa334135d9b9",
+      "source_url": "https://snapshot.debian.org/file/ddcd5b46f605138ceebc3188c6e7452ab3999815",
+      "version": "1.0.95-1"
+    },
+    {
+      "asset": "rust-anyhow__1.0.95-1__759b1929aa69__rust-anyhow_1.0.95-1.dsc",
+      "bytes": 1777,
+      "project": "rust-anyhow",
+      "sha256": "759b1929aa692d8a5f433a9ef03a5034695ee7016f895c96a6006f01268b8e45",
+      "source_url": "https://snapshot.debian.org/file/465233e5800f543ba79eeb55929f8de631f571ec",
+      "version": "1.0.95-1"
+    },
+    {
+      "asset": "rust-anyhow__1.0.95-1__34ac096ce696__rust-anyhow_1.0.95.orig.tar.gz",
+      "bytes": 52155,
+      "project": "rust-anyhow",
+      "sha256": "34ac096ce696dc2fcabef30516bb13c0a68a11d30131d3df6f04711467681b04",
+      "source_url": "https://snapshot.debian.org/file/d79464a6d7d061639cce8a4533872120f4ae7f34",
+      "version": "1.0.95-1"
+    },
+    {
+      "asset": "rust-argon2__0.5.3-1__019624a55c9c__rust-argon2_0.5.3-1.debian.tar.xz",
+      "bytes": 3076,
+      "project": "rust-argon2",
+      "sha256": "019624a55c9ce16e276ebc8d5238787df1b16cebd5c426468073bce8d5ec67d2",
+      "source_url": "https://snapshot.debian.org/file/948a27ca9af86b439051dc228858c0d2129f998e",
+      "version": "0.5.3-1"
+    },
+    {
+      "asset": "rust-argon2__0.5.3-1__3cd87bca09ac__rust-argon2_0.5.3-1.dsc",
+      "bytes": 1939,
+      "project": "rust-argon2",
+      "sha256": "3cd87bca09ac99c9f5a38528bd3ffa4d6f994cfa84353689af2af0daa746af1d",
+      "source_url": "https://snapshot.debian.org/file/665d8aaccfaa19cd85dd26e0194f19b0a1bbf72e",
+      "version": "0.5.3-1"
+    },
+    {
+      "asset": "rust-argon2__0.5.3-1__3c3610892ee6__rust-argon2_0.5.3.orig.tar.gz",
+      "bytes": 28795,
+      "project": "rust-argon2",
+      "sha256": "3c3610892ee6e0cbce8ae2700349fcf8f98adb0dbfbee85aec3c9179d29cc072",
+      "source_url": "https://snapshot.debian.org/file/eb2df08ca7da970b57a5951de604d22b318bd4eb",
+      "version": "0.5.3-1"
+    },
+    {
+      "asset": "rust-base64__0.22.1-1__f7470347d420__rust-base64_0.22.1-1.debian.tar.xz",
+      "bytes": 3120,
+      "project": "rust-base64",
+      "sha256": "f7470347d420134780ee6c6f4361ec7987e9d8b7b07b3830d7b63f585e98250b",
+      "source_url": "https://snapshot.debian.org/file/2e5b78d27e64580ab7d4d5e55e8d132f8cc0689f",
+      "version": "0.22.1-1"
+    },
+    {
+      "asset": "rust-base64__0.22.1-1__217563b495bf__rust-base64_0.22.1-1.dsc",
+      "bytes": 2111,
+      "project": "rust-base64",
+      "sha256": "217563b495bf02bfc2c89b94c14d6e7e7f59d7f685d292e0f32a3b75f0cd3b23",
+      "source_url": "https://snapshot.debian.org/file/5b342b6ade61c1c21fdfcb2a286a15c17dd72c85",
+      "version": "0.22.1-1"
+    },
+    {
+      "asset": "rust-base64__0.22.1-1__72b3254f1625__rust-base64_0.22.1.orig.tar.gz",
+      "bytes": 81597,
+      "project": "rust-base64",
+      "sha256": "72b3254f16251a8381aa12e40e3c4d2f0199f8c6508fbecb9d91f575e0fbb8c6",
+      "source_url": "https://snapshot.debian.org/file/39c5509f9e6e0131fcb16d5e127be3301ceec9c7",
+      "version": "0.22.1-1"
+    },
+    {
+      "asset": "rust-base64ct__1.6.0-1__5ab1a5f8a40d__rust-base64ct_1.6.0-1.debian.tar.xz",
+      "bytes": 3060,
+      "project": "rust-base64ct",
+      "sha256": "5ab1a5f8a40de29dfd287e1ef044d372cbd961460ffec0f5b162e6d66e266f55",
+      "source_url": "https://snapshot.debian.org/file/1deb24afab37e8dc0b5b013c0c44011ee8feef23",
+      "version": "1.6.0-1"
+    },
+    {
+      "asset": "rust-base64ct__1.6.0-1__bfb531d6a73c__rust-base64ct_1.6.0-1.dsc",
+      "bytes": 1645,
+      "project": "rust-base64ct",
+      "sha256": "bfb531d6a73c41ce44eb7e948c46a212bb0391d37d8ba68a890b4f1097290c81",
+      "source_url": "https://snapshot.debian.org/file/503250154a4e7041095ee5faccadf821a966f5f2",
+      "version": "1.6.0-1"
+    },
+    {
+      "asset": "rust-base64ct__1.6.0-1__52fcc144b150__rust-base64ct_1.6.0.orig.tar.gz",
+      "bytes": 28372,
+      "project": "rust-base64ct",
+      "sha256": "52fcc144b1509866fe6645354b9ad3ea3b84fabe665fdf83c572b1cf2c339566",
+      "source_url": "https://snapshot.debian.org/file/dbb38e14ec5d49d448f82fbbdd1a056663add8e1",
+      "version": "1.6.0-1"
+    },
+    {
+      "asset": "rust-bitflags__2.8.0-1__7cd6a849647e__rust-bitflags_2.8.0-1.debian.tar.xz",
+      "bytes": 4052,
+      "project": "rust-bitflags",
+      "sha256": "7cd6a849647ee9f18570a029238bdc4ad33a277bebddfbe7624bce5726fa8fc5",
+      "source_url": "https://snapshot.debian.org/file/ac78def5f2603473ef3ab67b78a2eb60a7e844c6",
+      "version": "2.8.0-1"
+    },
+    {
+      "asset": "rust-bitflags__2.8.0-1__dcc92c693908__rust-bitflags_2.8.0-1.dsc",
+      "bytes": 2513,
+      "project": "rust-bitflags",
+      "sha256": "dcc92c6939080c94ccc321e3942fc7671554568fc08c25108e9b5b2305c7ba9d",
+      "source_url": "https://snapshot.debian.org/file/671d2793e153d50d57e8de0e49653876f848b22c",
+      "version": "2.8.0-1"
+    },
+    {
+      "asset": "rust-bitflags__2.8.0-1__8f68f53c83ab__rust-bitflags_2.8.0.orig.tar.gz",
+      "bytes": 47482,
+      "project": "rust-bitflags",
+      "sha256": "8f68f53c83ab957f72c32642f3868eec03eb974d1fb82e453128456482613d36",
+      "source_url": "https://snapshot.debian.org/file/42cfcb98efeef51e6b2f5335dd7a0e18626ead80",
+      "version": "2.8.0-1"
+    },
+    {
+      "asset": "rust-blake2__0.10.6-3__aced6452699d__rust-blake2_0.10.6-3.debian.tar.xz",
+      "bytes": 3272,
+      "project": "rust-blake2",
+      "sha256": "aced6452699de96342234b97674bf97e1dcd598094149bacdecbba5d75eb6e9e",
+      "source_url": "https://snapshot.debian.org/file/c528564b59203433f2268ccece431283ae05f930",
+      "version": "0.10.6-3"
+    },
+    {
+      "asset": "rust-blake2__0.10.6-3__c579de741512__rust-blake2_0.10.6-3.dsc",
+      "bytes": 2397,
+      "project": "rust-blake2",
+      "sha256": "c579de741512bd9d93336c64198379b8b8e8af2de29082543683c63da20db32e",
+      "source_url": "https://snapshot.debian.org/file/56458b77d133a751a1083477007902248c3f9ade",
+      "version": "0.10.6-3"
+    },
+    {
+      "asset": "rust-blake2__0.10.6-3__46502ad458c9__rust-blake2_0.10.6.orig.tar.gz",
+      "bytes": 47234,
+      "project": "rust-blake2",
+      "sha256": "46502ad458c9a52b69d4d4d32775c788b7a1b85e8bc9d482d92250fc0e3f8efe",
+      "source_url": "https://snapshot.debian.org/file/eac50f68d2c78610a6606110d941f7badb025812",
+      "version": "0.10.6-3"
+    },
+    {
+      "asset": "rust-block-buffer__0.10.4-1__5977232a4867__rust-block-buffer_0.10.4-1.debian.tar.xz",
+      "bytes": 3012,
+      "project": "rust-block-buffer",
+      "sha256": "5977232a486753e7570377614ebb98cffb079d2a8c9993282c0d8e73091f48aa",
+      "source_url": "https://snapshot.debian.org/file/f9f1554d302e9d305ccd7dea44e359bde06cca33",
+      "version": "0.10.4-1"
+    },
+    {
+      "asset": "rust-block-buffer__0.10.4-1__825e1ba1d84a__rust-block-buffer_0.10.4-1.dsc",
+      "bytes": 1676,
+      "project": "rust-block-buffer",
+      "sha256": "825e1ba1d84ac9c8e06eecfddf93c6e36c1eeba2741873a4790866afb5f36157",
+      "source_url": "https://snapshot.debian.org/file/57e4d37e411ae1e28786dd682cd961b3226ca429",
+      "version": "0.10.4-1"
+    },
+    {
+      "asset": "rust-block-buffer__0.10.4-1__3078c7629b62__rust-block-buffer_0.10.4.orig.tar.gz",
+      "bytes": 10538,
+      "project": "rust-block-buffer",
+      "sha256": "3078c7629b62d3f0439517fa394996acacc5cbc91c5a20d8c658e77abd503a71",
+      "source_url": "https://snapshot.debian.org/file/4c85b876bcdc62811ebe1534fe40f8bd19b8670b",
+      "version": "0.10.4-1"
+    },
+    {
+      "asset": "rust-buffered-reader__1.3.1-2__69920a1b197e__rust-buffered-reader_1.3.1-2.debian.tar.xz",
+      "bytes": 3152,
+      "project": "rust-buffered-reader",
+      "sha256": "69920a1b197e791c524091dfdb612f7752bb2c9bc7e143b3de9eacef5bd52722",
+      "source_url": "https://snapshot.debian.org/file/e2c29348f92d638ead99f3f6479135b78e891359",
+      "version": "1.3.1-2"
+    },
+    {
+      "asset": "rust-buffered-reader__1.3.1-2__337fbf51f0fa__rust-buffered-reader_1.3.1-2.dsc",
+      "bytes": 2569,
+      "project": "rust-buffered-reader",
+      "sha256": "337fbf51f0fa38ee87b8c71c1e8117d946b300fc86b1b621447b76f08e21714c",
+      "source_url": "https://snapshot.debian.org/file/c5b2868e85dfc1c056933c596257e001444530f5",
+      "version": "1.3.1-2"
+    },
+    {
+      "asset": "rust-buffered-reader__1.3.1-2__cd098763fdb6__rust-buffered-reader_1.3.1.orig.tar.gz",
+      "bytes": 63723,
+      "project": "rust-buffered-reader",
+      "sha256": "cd098763fdb64579407a8c83cf0d751e6d4a7e161d0114c89cc181a2ca760ec8",
+      "source_url": "https://snapshot.debian.org/file/1fcfece9cec2455d0bd337975ebb80a09ff5bc0a",
+      "version": "1.3.1-2"
+    },
+    {
+      "asset": "rust-cfg-if__1.0.0-1__73fefcd4a14f__rust-cfg-if_1.0.0-1.debian.tar.xz",
+      "bytes": 3640,
+      "project": "rust-cfg-if",
+      "sha256": "73fefcd4a14f1e57975c7a0a702b587130a264b7c36f8095983c2a259d6435cb",
+      "source_url": "https://snapshot.debian.org/file/7908c9685916bc4ca26edd6884633c324708a126",
+      "version": "1.0.0-1"
+    },
+    {
+      "asset": "rust-cfg-if__1.0.0-1__adbc0c23a366__rust-cfg-if_1.0.0-1.dsc",
+      "bytes": 2259,
+      "project": "rust-cfg-if",
+      "sha256": "adbc0c23a3669be444992d4463faf18b1fda48644f16493bb52f2cf43b36a094",
+      "source_url": "https://snapshot.debian.org/file/3a2fbd482fd5068df3ebbe7ef4d0d0d5d30b3dac",
+      "version": "1.0.0-1"
+    },
+    {
+      "asset": "rust-cfg-if__1.0.0-1__baf1de433976__rust-cfg-if_1.0.0.orig.tar.gz",
+      "bytes": 7934,
+      "project": "rust-cfg-if",
+      "sha256": "baf1de4339761588bc0619e3cbc0120ee582ebb74b53b4efbf79117bd2da40fd",
+      "source_url": "https://snapshot.debian.org/file/9b415d94b6c2a84ed31b909e354ba9ac89092174",
+      "version": "1.0.0-1"
+    },
+    {
+      "asset": "rust-chrono__0.4.39-2__b09085f45166__rust-chrono_0.4.39-2.debian.tar.xz",
+      "bytes": 5900,
+      "project": "rust-chrono",
+      "sha256": "b09085f451662c56ebe1ababb9f32ebe5181dca8a3de045094470d9fa91dfac9",
+      "source_url": "https://snapshot.debian.org/file/0a90103d18792f278e370e3dff1e2dd22a54341f",
+      "version": "0.4.39-2"
+    },
+    {
+      "asset": "rust-chrono__0.4.39-2__986562fb01eb__rust-chrono_0.4.39-2.dsc",
+      "bytes": 1958,
+      "project": "rust-chrono",
+      "sha256": "986562fb01eb1fed86f1e29a30ad785da5a83bdf23545ad76ee9be5974fc65b2",
+      "source_url": "https://snapshot.debian.org/file/db17ca1ec8476ee09fd77fbf85547e3cfe39975f",
+      "version": "0.4.39-2"
+    },
+    {
+      "asset": "rust-chrono__0.4.39-2__7e36cc9d4168__rust-chrono_0.4.39.orig.tar.gz",
+      "bytes": 222248,
+      "project": "rust-chrono",
+      "sha256": "7e36cc9d416881d2e24f9a963be5fb1cd90966419ac844274161d10488b3e825",
+      "source_url": "https://snapshot.debian.org/file/00ad293540ae73a6558c23a359c865f7abcc47a5",
+      "version": "0.4.39-2"
+    },
+    {
+      "asset": "rust-clap__4.5.23-1__939705bdea4d__rust-clap_4.5.23-1.debian.tar.xz",
+      "bytes": 8764,
+      "project": "rust-clap",
+      "sha256": "939705bdea4d10cb2963e451a2fe42eddf21ee34bb5e290c11b8e6c6bf8590c9",
+      "source_url": "https://snapshot.debian.org/file/3df00646d5120f0c7109193ef33ba81e247b13be",
+      "version": "4.5.23-1"
+    },
+    {
+      "asset": "rust-clap__4.5.23-1__0e6ae09bdb82__rust-clap_4.5.23-1.dsc",
+      "bytes": 2990,
+      "project": "rust-clap",
+      "sha256": "0e6ae09bdb82b280d058bfabdac5d4c163aa42c83322d4b3846bf7250a44293d",
+      "source_url": "https://snapshot.debian.org/file/0813b7cba378515e67366f3598f2d2e6a8f66b4b",
+      "version": "4.5.23-1"
+    },
+    {
+      "asset": "rust-clap__4.5.23-1__3135e7ec2ef7__rust-clap_4.5.23.orig.tar.gz",
+      "bytes": 56460,
+      "project": "rust-clap",
+      "sha256": "3135e7ec2ef7b10c6ed8950f0f792ed96ee093fa088608f1c76e569722700c84",
+      "source_url": "https://snapshot.debian.org/file/46e2d5f39b0719e02fc9f7c123310d6b386cd9f6",
+      "version": "4.5.23-1"
+    },
+    {
+      "asset": "rust-clap-builder__4.5.23-1__140f2ebec407__rust-clap-builder_4.5.23-1.debian.tar.xz",
+      "bytes": 4024,
+      "project": "rust-clap-builder",
+      "sha256": "140f2ebec407866e050ef28c33b106275b8be6d4d991a5f4148928d50c27101d",
+      "source_url": "https://snapshot.debian.org/file/6dc82e671a85b1dc265d6ca0a48a72fe8c42ba0c",
+      "version": "4.5.23-1"
+    },
+    {
+      "asset": "rust-clap-builder__4.5.23-1__baac3eec4bab__rust-clap-builder_4.5.23-1.dsc",
+      "bytes": 2682,
+      "project": "rust-clap-builder",
+      "sha256": "baac3eec4bab01a72f875a7e46b44dd0a767157a6774e85943cb7523f461986f",
+      "source_url": "https://snapshot.debian.org/file/5789d1271442a2071e37470ee9472d8dcf48625d",
+      "version": "4.5.23-1"
+    },
+    {
+      "asset": "rust-clap-builder__4.5.23-1__30582fc63233__rust-clap-builder_4.5.23.orig.tar.gz",
+      "bytes": 164180,
+      "project": "rust-clap-builder",
+      "sha256": "30582fc632330df2bd26877bde0c1f4470d57c582bbc070376afcd04d8cb4838",
+      "source_url": "https://snapshot.debian.org/file/28c8af28e4fd7468a1182093f0b8ec3fc85c1580",
+      "version": "4.5.23-1"
+    },
+    {
+      "asset": "rust-clap-lex__0.7.4-1__cd65a4da9b6f__rust-clap-lex_0.7.4-1.debian.tar.xz",
+      "bytes": 2816,
+      "project": "rust-clap-lex",
+      "sha256": "cd65a4da9b6f2d7c184341bdf043877ce81663b1e34a9b0b56f90ac3673b28d3",
+      "source_url": "https://snapshot.debian.org/file/29786fe855c749b0d4d19d4c9181cc9333da6e18",
+      "version": "0.7.4-1"
+    },
+    {
+      "asset": "rust-clap-lex__0.7.4-1__de53d2ba1aed__rust-clap-lex_0.7.4-1.dsc",
+      "bytes": 2244,
+      "project": "rust-clap-lex",
+      "sha256": "de53d2ba1aed0f5eb646184767c3bb64140d035e2fc96cb3743b0092df1b1158",
+      "source_url": "https://snapshot.debian.org/file/1815e669546ac02db76c0d04b5043fad30d81dc5",
+      "version": "0.7.4-1"
+    },
+    {
+      "asset": "rust-clap-lex__0.7.4-1__f46ad14479a2__rust-clap-lex_0.7.4.orig.tar.gz",
+      "bytes": 12858,
+      "project": "rust-clap-lex",
+      "sha256": "f46ad14479a25103f283c0f10005961cf086d8dc42205bb44c46ac563475dca6",
+      "source_url": "https://snapshot.debian.org/file/1eb0b1210f79cecda332f2dfc48f0a5a21d3f0f7",
+      "version": "0.7.4-1"
+    },
+    {
+      "asset": "rust-colorchoice__1.0.0-1__ebd800843cb1__rust-colorchoice_1.0.0-1.debian.tar.xz",
+      "bytes": 2524,
+      "project": "rust-colorchoice",
+      "sha256": "ebd800843cb117e8baceaef09eeab36b7724c579d4372377cb51c576246abcb6",
+      "source_url": "https://snapshot.debian.org/file/7ba6ef1a2838247a5ff2b125c73c9e7ec98ef6ec",
+      "version": "1.0.0-1"
+    },
+    {
+      "asset": "rust-colorchoice__1.0.0-1__6f44847d13b5__rust-colorchoice_1.0.0-1.dsc",
+      "bytes": 2164,
+      "project": "rust-colorchoice",
+      "sha256": "6f44847d13b52965603de503e5122ee9cd56c19774c53acffeb372c5ec9b4712",
+      "source_url": "https://snapshot.debian.org/file/4f1ec3c67f5c456db61c7a4aba1cc3d6ff7950a6",
+      "version": "1.0.0-1"
+    },
+    {
+      "asset": "rust-colorchoice__1.0.0-1__acbf1af155f9__rust-colorchoice_1.0.0.orig.tar.gz",
+      "bytes": 6857,
+      "project": "rust-colorchoice",
+      "sha256": "acbf1af155f9b9ef647e42cdc158db4b64a1b61f743629225fde6f3e0be2a7c7",
+      "source_url": "https://snapshot.debian.org/file/b26dffaa5b8ff3ed6204992004eb45083b1de478",
+      "version": "1.0.0-1"
+    },
+    {
+      "asset": "rust-cpufeatures__0.2.16-1__91d5113e8264__rust-cpufeatures_0.2.16-1.debian.tar.xz",
+      "bytes": 3120,
+      "project": "rust-cpufeatures",
+      "sha256": "91d5113e826409b678d1a46c8f11bfe729229162860897637f3ef8b6fee87822",
+      "source_url": "https://snapshot.debian.org/file/e7ffe58735fba7fe1438db3804bb9dbe0978f7a6",
+      "version": "0.2.16-1"
+    },
+    {
+      "asset": "rust-cpufeatures__0.2.16-1__a2aff46fb002__rust-cpufeatures_0.2.16-1.dsc",
+      "bytes": 2290,
+      "project": "rust-cpufeatures",
+      "sha256": "a2aff46fb0027535406cd97cf9a7eb9146a918efa353a803a9ca08e949547011",
+      "source_url": "https://snapshot.debian.org/file/ec87b989107604fd3e03fd19ab0ce455c15591e8",
+      "version": "0.2.16-1"
+    },
+    {
+      "asset": "rust-cpufeatures__0.2.16-1__16b80225097f__rust-cpufeatures_0.2.16.orig.tar.gz",
+      "bytes": 13405,
+      "project": "rust-cpufeatures",
+      "sha256": "16b80225097f2e5ae4e7179dd2266824648f3e2f49d9134d584b76389d31c4c3",
+      "source_url": "https://snapshot.debian.org/file/7cf1da244241328c78ba3b4615e93cccf7117efb",
+      "version": "0.2.16-1"
+    },
+    {
+      "asset": "rust-crypto-common__0.1.6-1__75996106ff23__rust-crypto-common_0.1.6-1.debian.tar.xz",
+      "bytes": 2816,
+      "project": "rust-crypto-common",
+      "sha256": "75996106ff2365e1db921d0d9b97dbb8ecc464faee0a57490f6e7e7efce74dac",
+      "source_url": "https://snapshot.debian.org/file/43bcbcab3645d658d8d9c161954c3daca1366d4e",
+      "version": "0.1.6-1"
+    },
+    {
+      "asset": "rust-crypto-common__0.1.6-1__b4cbff7eb8be__rust-crypto-common_0.1.6-1.dsc",
+      "bytes": 2408,
+      "project": "rust-crypto-common",
+      "sha256": "b4cbff7eb8be065f6fd0764a64cdfad06a74f6cc4899c46f19fa4488263f7401",
+      "source_url": "https://snapshot.debian.org/file/7f571a6f12dd3496a7ad37a825967199903e5888",
+      "version": "0.1.6-1"
+    },
+    {
+      "asset": "rust-crypto-common__0.1.6-1__1bfb12502f3f__rust-crypto-common_0.1.6.orig.tar.gz",
+      "bytes": 8760,
+      "project": "rust-crypto-common",
+      "sha256": "1bfb12502f3fc46cca1bb51ac28df9d618d813cdc3d2f25b9fe775a34af26bb3",
+      "source_url": "https://snapshot.debian.org/file/fd9bde627ddb26d91a29eee41624700081962e40",
+      "version": "0.1.6-1"
+    },
+    {
+      "asset": "rust-digest__0.10.7-2__9586e225fec8__rust-digest_0.10.7-2.debian.tar.xz",
+      "bytes": 3272,
+      "project": "rust-digest",
+      "sha256": "9586e225fec87efaf95ad11879e41a572e12592f583dbc71f31add9e91ec1548",
+      "source_url": "https://snapshot.debian.org/file/b210bfd4b1a0b3108836017557ce1d604f1c484b",
+      "version": "0.10.7-2"
+    },
+    {
+      "asset": "rust-digest__0.10.7-2__de6606d53613__rust-digest_0.10.7-2.dsc",
+      "bytes": 2215,
+      "project": "rust-digest",
+      "sha256": "de6606d536131881a035dbab6e7343d9fc930b638bc9dd3a00a94388a69ec54c",
+      "source_url": "https://snapshot.debian.org/file/a0a421e330880fa5b31c98af3a446e5fe808fd17",
+      "version": "0.10.7-2"
+    },
+    {
+      "asset": "rust-digest__0.10.7-2__9ed9a281f7bc__rust-digest_0.10.7.orig.tar.gz",
+      "bytes": 19557,
+      "project": "rust-digest",
+      "sha256": "9ed9a281f7bc9b7576e61468ba615a66a5c8cfdff42420a70aa82701a3b1e292",
+      "source_url": "https://snapshot.debian.org/file/cad0b6204da7e58b798708b3fc4b6d27aa2e2c8f",
+      "version": "0.10.7-2"
+    },
+    {
+      "asset": "rust-dyn-clone__1.0.16-1__422661ef2b46__rust-dyn-clone_1.0.16-1.debian.tar.xz",
+      "bytes": 2592,
+      "project": "rust-dyn-clone",
+      "sha256": "422661ef2b46eaeabab85d594725219e3359d50221846d25dfef14243de42372",
+      "source_url": "https://snapshot.debian.org/file/248326fbaa2ece9561bb7c40fbe05a28f447b86b",
+      "version": "1.0.16-1"
+    },
+    {
+      "asset": "rust-dyn-clone__1.0.16-1__bc8bfbb3e33b__rust-dyn-clone_1.0.16-1.dsc",
+      "bytes": 2276,
+      "project": "rust-dyn-clone",
+      "sha256": "bc8bfbb3e33b18cb3ea6d71d52f5aa17e882f885a873208e12d35d10dbac075d",
+      "source_url": "https://snapshot.debian.org/file/f1ebf4a487315a67775839c50884ef4fe9cac006",
+      "version": "1.0.16-1"
+    },
+    {
+      "asset": "rust-dyn-clone__1.0.16-1__545b22097d44__rust-dyn-clone_1.0.16.orig.tar.gz",
+      "bytes": 11766,
+      "project": "rust-dyn-clone",
+      "sha256": "545b22097d44f8a9581187cdf93de7a71e4722bf51200cfaba810865b49a495d",
+      "source_url": "https://snapshot.debian.org/file/31f43afffaf6bd9bbe16bc4bc485939fdfe8335e",
+      "version": "1.0.16-1"
+    },
+    {
+      "asset": "rust-generic-array__0.14.7-1__2f2ef1c598c0__rust-generic-array_0.14.7-1.debian.tar.xz",
+      "bytes": 2892,
+      "project": "rust-generic-array",
+      "sha256": "2f2ef1c598c0895b02a21ec108496788cef4e56a3a3d45aaee4aab358934221f",
+      "source_url": "https://snapshot.debian.org/file/66750bf1d8085a686cbd436c4cb0371e7ddc75b1",
+      "version": "0.14.7-1"
+    },
+    {
+      "asset": "rust-generic-array__0.14.7-1__f8d14ed8d710__rust-generic-array_0.14.7-1.dsc",
+      "bytes": 2006,
+      "project": "rust-generic-array",
+      "sha256": "f8d14ed8d7101327da9e1623a7b8868ea587e5000f52aeaf211fdd57d9840178",
+      "source_url": "https://snapshot.debian.org/file/8166acdb5e03c832cf6c2f2473796dbf56d1865f",
+      "version": "0.14.7-1"
+    },
+    {
+      "asset": "rust-generic-array__0.14.7-1__85649ca51fd7__rust-generic-array_0.14.7.orig.tar.gz",
+      "bytes": 15950,
+      "project": "rust-generic-array",
+      "sha256": "85649ca51fd72272d7821adaf274ad91c288277713d9c18820d8499a7ff69e9a",
+      "source_url": "https://snapshot.debian.org/file/b7a611ee2caca2842d0ca5285e3e74b8fee37931",
+      "version": "0.14.7-1"
+    },
+    {
+      "asset": "rust-getrandom__0.2.15-1__fa89dfd27641__rust-getrandom_0.2.15-1.debian.tar.xz",
+      "bytes": 4368,
+      "project": "rust-getrandom",
+      "sha256": "fa89dfd27641747cce731997e2614fec6f2b62f0fd01211e38db467871c196e0",
+      "source_url": "https://snapshot.debian.org/file/0953e86afc9cb52929eff1f9eb5cef74fbed89eb",
+      "version": "0.2.15-1"
+    },
+    {
+      "asset": "rust-getrandom__0.2.15-1__ca16c8fbb308__rust-getrandom_0.2.15-1.dsc",
+      "bytes": 2588,
+      "project": "rust-getrandom",
+      "sha256": "ca16c8fbb30859dd0b0f3889b1718faaf6c23e48e4b3dbdf54fef12c2d3ae10e",
+      "source_url": "https://snapshot.debian.org/file/f266744ac2f6cd1504fac4229dd77435f1093345",
+      "version": "0.2.15-1"
+    },
+    {
+      "asset": "rust-getrandom__0.2.15-1__c4567c8db10a__rust-getrandom_0.2.15.orig.tar.gz",
+      "bytes": 37163,
+      "project": "rust-getrandom",
+      "sha256": "c4567c8db10ae91089c99af84c68c38da3ec2f087c3f82960bcdbf3656b6f4d7",
+      "source_url": "https://snapshot.debian.org/file/1ce6e2b85e24982b99e97d7e5449736aa6f48c6f",
+      "version": "0.2.15-1"
+    },
+    {
+      "asset": "rust-iana-time-zone__0.1.63-1__6a3f05479697__rust-iana-time-zone_0.1.63-1.debian.tar.xz",
+      "bytes": 3160,
+      "project": "rust-iana-time-zone",
+      "sha256": "6a3f0547969707e5080a83672cacc1bcf5d3f227d498b193163c757250542fad",
+      "source_url": "https://snapshot.debian.org/file/cf8755a3db10a9638f1984fe701a97910b430d98",
+      "version": "0.1.63-1"
+    },
+    {
+      "asset": "rust-iana-time-zone__0.1.63-1__b7efa3441d28__rust-iana-time-zone_0.1.63-1.dsc",
+      "bytes": 1747,
+      "project": "rust-iana-time-zone",
+      "sha256": "b7efa3441d289c93cba6bdfab3adcb6244840ef1532432c718ba528cee7d85f8",
+      "source_url": "https://snapshot.debian.org/file/4af8f5c4e2264d818672f3f16bb35cf2a558a965",
+      "version": "0.1.63-1"
+    },
+    {
+      "asset": "rust-iana-time-zone__0.1.63-1__b0c919e5debc__rust-iana-time-zone_0.1.63.orig.tar.gz",
+      "bytes": 32919,
+      "project": "rust-iana-time-zone",
+      "sha256": "b0c919e5debc312ad217002b8048a17b7d83f80703865bbfcfebb0458b0b27d8",
+      "source_url": "https://snapshot.debian.org/file/bdabc235aa1008854ada52c69018bfcac86ccacd",
+      "version": "0.1.63-1"
+    },
+    {
+      "asset": "rust-idna__1.0.3-2__204ea1ec73b1__rust-idna_1.0.3-2.debian.tar.xz",
+      "bytes": 3692,
+      "project": "rust-idna",
+      "sha256": "204ea1ec73b198504c5bd2b49bb489225e31101c9aa12ea9f8129916a6c3e4d0",
+      "source_url": "https://snapshot.debian.org/file/b68fe0ec7c975ec2ccad156091530b69780cb41a",
+      "version": "1.0.3-2"
+    },
+    {
+      "asset": "rust-idna__1.0.3-2__a4d7dd9f3420__rust-idna_1.0.3-2.dsc",
+      "bytes": 2577,
+      "project": "rust-idna",
+      "sha256": "a4d7dd9f34208b36377c9e914d20097d8ff2bd46e78c92464dbb6bdbaa0bd3ce",
+      "source_url": "https://snapshot.debian.org/file/9c735d76f4fbe3fc1bbfe5b23d20a8fc47258408",
+      "version": "1.0.3-2"
+    },
+    {
+      "asset": "rust-idna__1.0.3-2__686f825264d6__rust-idna_1.0.3.orig.tar.gz",
+      "bytes": 142515,
+      "project": "rust-idna",
+      "sha256": "686f825264d630750a544639377bae737628043f20d38bbc029e8f29ea968a7e",
+      "source_url": "https://snapshot.debian.org/file/e3a5fabc20502d0a47d9fb064f4a17c482416932",
+      "version": "1.0.3-2"
+    },
+    {
+      "asset": "rust-idna-adapter__1.1.0-1__fb0d6d8bdcc7__rust-idna-adapter_1.1.0-1.debian.tar.xz",
+      "bytes": 2624,
+      "project": "rust-idna-adapter",
+      "sha256": "fb0d6d8bdcc7e244680d2dc6d498ca3da0920421f7bb9bb23045d8997572fc80",
+      "source_url": "https://snapshot.debian.org/file/e913d69384bfd075e1cd211f9f4a18f77fb8318a",
+      "version": "1.1.0-1"
+    },
+    {
+      "asset": "rust-idna-adapter__1.1.0-1__aec8cf95547a__rust-idna-adapter_1.1.0-1.dsc",
+      "bytes": 2466,
+      "project": "rust-idna-adapter",
+      "sha256": "aec8cf95547acc61635adcb0beca747560734c17db1e6283c6ec7e93b6f463be",
+      "source_url": "https://snapshot.debian.org/file/d15d47703f958c7b5f1ca9ccf5fa9fb620a81fea",
+      "version": "1.1.0-1"
+    },
+    {
+      "asset": "rust-idna-adapter__1.1.0-1__279259b0ac81__rust-idna-adapter_1.1.0.orig.tar.gz",
+      "bytes": 7941,
+      "project": "rust-idna-adapter",
+      "sha256": "279259b0ac81c89d11c290495fdcfa96ea3643b7df311c138b6fe8ca5237f0f8",
+      "source_url": "https://snapshot.debian.org/file/1eefc0771565db766b0c8aa5cfb000431a83a305",
+      "version": "1.1.0-1"
+    },
+    {
+      "asset": "rust-idna-mapping__1.0.0-1__e32c3e214ecf__rust-idna-mapping_1.0.0-1.debian.tar.xz",
+      "bytes": 3564,
+      "project": "rust-idna-mapping",
+      "sha256": "e32c3e214ecfafd8fe7b731f9c69adc3f152a02e8fbc0d4b375099c5b844f57d",
+      "source_url": "https://snapshot.debian.org/file/32db95f22d39b88bdb42579f7b0dc5c223787a40",
+      "version": "1.0.0-1"
+    },
+    {
+      "asset": "rust-idna-mapping__1.0.0-1__ad704c0404c4__rust-idna-mapping_1.0.0-1.dsc",
+      "bytes": 2375,
+      "project": "rust-idna-mapping",
+      "sha256": "ad704c0404c4cf88531ff2ea572f8dbe3ded8b8630b47dcc5870177b350a0ab7",
+      "source_url": "https://snapshot.debian.org/file/3cbfacd106b0543dc8c707f7e67ac347fbd6604c",
+      "version": "1.0.0-1"
+    },
+    {
+      "asset": "rust-idna-mapping__1.0.0-1__d5422cc5bc64__rust-idna-mapping_1.0.0.orig.tar.gz",
+      "bytes": 158783,
+      "project": "rust-idna-mapping",
+      "sha256": "d5422cc5bc64289a77dbb45e970b86b5e9a04cb500abc7240505aedc1bf40f38",
+      "source_url": "https://snapshot.debian.org/file/51bfec6539152a8d1e2d7fded6041bec2b04bd53",
+      "version": "1.0.0-1"
+    },
+    {
+      "asset": "rust-lalrpop-util__0.20.0-1__4a6e7138f1eb__rust-lalrpop-util_0.20.0-1.debian.tar.xz",
+      "bytes": 3028,
+      "project": "rust-lalrpop-util",
+      "sha256": "4a6e7138f1eb222270f4a12db71bc7a91f511ab6ae8010cf99a3da9a1b804835",
+      "source_url": "https://snapshot.debian.org/file/58fc4d60bc1e67bfedc36fbd8384126f5d3d2303",
+      "version": "0.20.0-1"
+    },
+    {
+      "asset": "rust-lalrpop-util__0.20.0-1__886f05884f97__rust-lalrpop-util_0.20.0-1.dsc",
+      "bytes": 2203,
+      "project": "rust-lalrpop-util",
+      "sha256": "886f05884f9752676b34a72edb162f2f9bdc745eb0c8dc6a59c7d55cd2da7a95",
+      "source_url": "https://snapshot.debian.org/file/5a76f5d71d522e932e5b88feb93aa43b9f2b020c",
+      "version": "0.20.0-1"
+    },
+    {
+      "asset": "rust-lalrpop-util__0.20.0-1__3f35c735096c__rust-lalrpop-util_0.20.0.orig.tar.gz",
+      "bytes": 10403,
+      "project": "rust-lalrpop-util",
+      "sha256": "3f35c735096c0293d313e8f2a641627472b83d01b937177fe76e5e2708d31e0d",
+      "source_url": "https://snapshot.debian.org/file/0efee6d1266ae9ec4c304f39ea136add67fa90a7",
+      "version": "0.20.0-1"
+    },
+    {
+      "asset": "rust-lazy-static__1.5.0-1__2ff633c181d5__rust-lazy-static_1.5.0-1.debian.tar.xz",
+      "bytes": 3360,
+      "project": "rust-lazy-static",
+      "sha256": "2ff633c181d5ee373ee7e46cb089b5d6564e26558d91ffd26459f3b0a8bbc06b",
+      "source_url": "https://snapshot.debian.org/file/3f68f6420852c8df425b7f91b74c307ada6edda7",
+      "version": "1.5.0-1"
+    },
+    {
+      "asset": "rust-lazy-static__1.5.0-1__119afd10ec5e__rust-lazy-static_1.5.0-1.dsc",
+      "bytes": 2305,
+      "project": "rust-lazy-static",
+      "sha256": "119afd10ec5eb4cb9d82890f4e9a26a24cde1ec4d8b21f5abd44ced79f74ce65",
+      "source_url": "https://snapshot.debian.org/file/8819a5558ddf798f9002b5b2daa55337a14f28d0",
+      "version": "1.5.0-1"
+    },
+    {
+      "asset": "rust-lazy-static__1.5.0-1__bbd2bcb4c963__rust-lazy-static_1.5.0.orig.tar.gz",
+      "bytes": 14025,
+      "project": "rust-lazy-static",
+      "sha256": "bbd2bcb4c963f2ddae06a2efc7e9f3591312473c50c6685e1f298068316e66fe",
+      "source_url": "https://snapshot.debian.org/file/3190f4ab7fa92acd3d876a4c9287fcf30c593da6",
+      "version": "1.5.0-1"
+    },
+    {
+      "asset": "rust-libc__0.2.169-1__adc6f54c3a72__rust-libc_0.2.169-1.debian.tar.xz",
+      "bytes": 15564,
+      "project": "rust-libc",
+      "sha256": "adc6f54c3a72cc78de01a0e5dd9f881f45aad3f00d300dcbe0b9136356657968",
+      "source_url": "https://snapshot.debian.org/file/e9cc67b1037e2c603d7aaafac606f351e09a061a",
+      "version": "0.2.169-1"
+    },
+    {
+      "asset": "rust-libc__0.2.169-1__1f564d0213b8__rust-libc_0.2.169-1.dsc",
+      "bytes": 2264,
+      "project": "rust-libc",
+      "sha256": "1f564d0213b8455557f241f8d2530b76e43f1654085adaa6118b958e7db29333",
+      "source_url": "https://snapshot.debian.org/file/6ff3c8cfd70fb538d0a9cf214570bd2ab3c8635e",
+      "version": "0.2.169-1"
+    },
+    {
+      "asset": "rust-libc__0.2.169-1__b5aba8db1429__rust-libc_0.2.169.orig.tar.gz",
+      "bytes": 757901,
+      "project": "rust-libc",
+      "sha256": "b5aba8db14291edd000dfcc4d620c7ebfb122c613afb886ca8803fa4e128a20a",
+      "source_url": "https://snapshot.debian.org/file/abe7add8eb1664e427d43ed08c6beb0ee34f63c6",
+      "version": "0.2.169-1"
+    },
+    {
+      "asset": "rust-linux-raw-sys__0.4.14-1__95eec6ef60bd__rust-linux-raw-sys_0.4.14-1.debian.tar.xz",
+      "bytes": 4348,
+      "project": "rust-linux-raw-sys",
+      "sha256": "95eec6ef60bd322a6066eb9f7232381b126dfc37009bda9d443fdf09a6948b94",
+      "source_url": "https://snapshot.debian.org/file/176078298af09d93b86f95fbc091351ea97e51ae",
+      "version": "0.4.14-1"
+    },
+    {
+      "asset": "rust-linux-raw-sys__0.4.14-1__710291227e83__rust-linux-raw-sys_0.4.14-1.dsc",
+      "bytes": 1674,
+      "project": "rust-linux-raw-sys",
+      "sha256": "710291227e832380a4b786b469fdfee1f252aff8ed9cb62e4a44446ee80344d8",
+      "source_url": "https://snapshot.debian.org/file/3fbf572724a51098164da8676b6a89420de16307",
+      "version": "0.4.14-1"
+    },
+    {
+      "asset": "rust-linux-raw-sys__0.4.14-1__78b3ae25bc7c__rust-linux-raw-sys_0.4.14.orig.tar.gz",
+      "bytes": 1826665,
+      "project": "rust-linux-raw-sys",
+      "sha256": "78b3ae25bc7c8c38cec158d1f2757ee79e9b3740fbc7ccf0e59e4b08d793fa89",
+      "source_url": "https://snapshot.debian.org/file/4788f1e0e25840eab2338b3a9b900d3026871d7a",
+      "version": "0.4.14-1"
+    },
+    {
+      "asset": "rust-memchr__2.7.4-1__d0d8d6b04679__rust-memchr_2.7.4-1.debian.tar.xz",
+      "bytes": 3740,
+      "project": "rust-memchr",
+      "sha256": "d0d8d6b046793cbe90e82318ff5d506cba427fa44ab4132d46ad1217d0086211",
+      "source_url": "https://snapshot.debian.org/file/4eece71c65ce1865869182999143dbe19d3f4da3",
+      "version": "2.7.4-1"
+    },
+    {
+      "asset": "rust-memchr__2.7.4-1__2db87d79e45d__rust-memchr_2.7.4-1.dsc",
+      "bytes": 2130,
+      "project": "rust-memchr",
+      "sha256": "2db87d79e45dbbc7838e26b866979b10f743c11d937de16f8e123cea0ec31d5e",
+      "source_url": "https://snapshot.debian.org/file/f4733a12cf84ffebce512bfd668a445795da857b",
+      "version": "2.7.4-1"
+    },
+    {
+      "asset": "rust-memchr__2.7.4-1__78ca9ab1a0ba__rust-memchr_2.7.4.orig.tar.gz",
+      "bytes": 96670,
+      "project": "rust-memchr",
+      "sha256": "78ca9ab1a0babb1e7d5695e3530886289c18cf2f87ec19a575a0abdce112e3a3",
+      "source_url": "https://snapshot.debian.org/file/bea41b4a4a22f8edbca783829550dd2215afb952",
+      "version": "2.7.4-1"
+    },
+    {
+      "asset": "rust-memsec__0.7.0-1__ad6bc3bbb4eb__rust-memsec_0.7.0-1.debian.tar.xz",
+      "bytes": 3380,
+      "project": "rust-memsec",
+      "sha256": "ad6bc3bbb4eb4947a1aca008bbe9d9dd46c6eaa6342ab56003d0eaf9d110efb1",
+      "source_url": "https://snapshot.debian.org/file/04498127b7dd850f4114907e4998978e90b67073",
+      "version": "0.7.0-1"
+    },
+    {
+      "asset": "rust-memsec__0.7.0-1__f670ef3ef019__rust-memsec_0.7.0-1.dsc",
+      "bytes": 2284,
+      "project": "rust-memsec",
+      "sha256": "f670ef3ef019a52622b9bef9b8ffeb7bc7b2c863830881c0a7b0f31da66f5b75",
+      "source_url": "https://snapshot.debian.org/file/cf7211f5d251e6c304dd940c6fd4f4b69da62041",
+      "version": "0.7.0-1"
+    },
+    {
+      "asset": "rust-memsec__0.7.0-1__c797b9d6bb23__rust-memsec_0.7.0.orig.tar.gz",
+      "bytes": 6532,
+      "project": "rust-memsec",
+      "sha256": "c797b9d6bb23aab2fc369c65f871be49214f5c759af65bde26ffaaa2b646b492",
+      "source_url": "https://snapshot.debian.org/file/b51d3e38c5d06531f594dfb3e77b674f08e7f761",
+      "version": "0.7.0-1"
+    },
+    {
+      "asset": "rust-nettle__7.3.0-1__a8327eb1cef1__rust-nettle_7.3.0-1.debian.tar.xz",
+      "bytes": 2564,
+      "project": "rust-nettle",
+      "sha256": "a8327eb1cef117b9276f3ad644a82567dd2d93445da24a2a0ffb9b4c6b69f2a9",
+      "source_url": "https://snapshot.debian.org/file/5386d41821fe41036aac3c9a6569fd2dfe234199",
+      "version": "7.3.0-1"
+    },
+    {
+      "asset": "rust-nettle__7.3.0-1__a737b98e97a2__rust-nettle_7.3.0-1.dsc",
+      "bytes": 2378,
+      "project": "rust-nettle",
+      "sha256": "a737b98e97a2572c11fd4e8d5abcd7b8a0272084cb88dbee596aed6e079bc866",
+      "source_url": "https://snapshot.debian.org/file/a964e6cc974334d24b20a8a785def127a7217a0e",
+      "version": "7.3.0-1"
+    },
+    {
+      "asset": "rust-nettle__7.3.0-1__b9fdccf3eae7__rust-nettle_7.3.0.orig.tar.gz",
+      "bytes": 580277,
+      "project": "rust-nettle",
+      "sha256": "b9fdccf3eae7b161910d2daa2f0155ca35041322e8fe5c5f1f2c9d0b12356336",
+      "source_url": "https://snapshot.debian.org/file/ee60156db73d6e687df81ddb8a816e3345577bfd",
+      "version": "7.3.0-1"
+    },
+    {
+      "asset": "rust-nettle-sys__2.3.1-1__cc9e694f1d34__rust-nettle-sys_2.3.1-1.debian.tar.xz",
+      "bytes": 3956,
+      "project": "rust-nettle-sys",
+      "sha256": "cc9e694f1d34c121fc0c7a2ebbb65418c95addeebb45ca4bc2225e6fd09530bf",
+      "source_url": "https://snapshot.debian.org/file/28e3bebd603801750006777d7daad1fdbdab2567",
+      "version": "2.3.1-1"
+    },
+    {
+      "asset": "rust-nettle-sys__2.3.1-1__c18bdfa50fb1__rust-nettle-sys_2.3.1-1.dsc",
+      "bytes": 2528,
+      "project": "rust-nettle-sys",
+      "sha256": "c18bdfa50fb184563e1bc0fc5a90d8bd5129d4067bbf2ec8de3b93ba7cc18b09",
+      "source_url": "https://snapshot.debian.org/file/c01ec4dc722cd6e4adeb0ecb0875ce972c184ebd",
+      "version": "2.3.1-1"
+    },
+    {
+      "asset": "rust-nettle-sys__2.3.1-1__61a3f5406064__rust-nettle-sys_2.3.1.orig.tar.gz",
+      "bytes": 81980,
+      "project": "rust-nettle-sys",
+      "sha256": "61a3f5406064d310d59b1a219d3c5c9a49caf4047b6496032e3f930876488c34",
+      "source_url": "https://snapshot.debian.org/file/28522cef04993c6d618ea1b04e6b4c48e07c133e",
+      "version": "2.3.1-1"
+    },
+    {
+      "asset": "rust-nix__0.29.0-2__31da1b9cfc53__rust-nix_0.29.0-2.debian.tar.xz",
+      "bytes": 18900,
+      "project": "rust-nix",
+      "sha256": "31da1b9cfc53691e716c2043e9a0cccb28b69a82c3f465d3f874826be2df6976",
+      "source_url": "https://snapshot.debian.org/file/77c86b4b6b2616783942fc60fc208ae3194be2e6",
+      "version": "0.29.0-2"
+    },
+    {
+      "asset": "rust-nix__0.29.0-2__45997eb67861__rust-nix_0.29.0-2.dsc",
+      "bytes": 2730,
+      "project": "rust-nix",
+      "sha256": "45997eb67861c7a63bbb1fd0b4549957cd40204f3366d571632f4ce5c03d4867",
+      "source_url": "https://snapshot.debian.org/file/af785a2e8e5d737593782c59f68f47d144ab2d3b",
+      "version": "0.29.0-2"
+    },
+    {
+      "asset": "rust-nix__0.29.0-2__71e2746dc3a2__rust-nix_0.29.0.orig.tar.gz",
+      "bytes": 318248,
+      "project": "rust-nix",
+      "sha256": "71e2746dc3a24dd78b3cfcb7be93368c6de9963d30f43a6a73998a9cf4b17b46",
+      "source_url": "https://snapshot.debian.org/file/aa9b7bb1a8f9168d8137bfb23f5e4e8d9ea8ec8c",
+      "version": "0.29.0-2"
+    },
+    {
+      "asset": "rust-num-traits__0.2.19-2__33f3384db5d7__rust-num-traits_0.2.19-2.debian.tar.xz",
+      "bytes": 3740,
+      "project": "rust-num-traits",
+      "sha256": "33f3384db5d75038495909f6e6b447c8e3f7d38736032bcdb36acc75615d644d",
+      "source_url": "https://snapshot.debian.org/file/a0986bea528a32f88f6d8164b202251d07ec9aa1",
+      "version": "0.2.19-2"
+    },
+    {
+      "asset": "rust-num-traits__0.2.19-2__e4d9c64eba88__rust-num-traits_0.2.19-2.dsc",
+      "bytes": 1711,
+      "project": "rust-num-traits",
+      "sha256": "e4d9c64eba88cf3d0040627724bc487f5475a1afc412a69f66faeee939c701d2",
+      "source_url": "https://snapshot.debian.org/file/3da558c9df321c254ff98f35712462d3784ef039",
+      "version": "0.2.19-2"
+    },
+    {
+      "asset": "rust-num-traits__0.2.19-2__071dfc062690__rust-num-traits_0.2.19.orig.tar.gz",
+      "bytes": 51631,
+      "project": "rust-num-traits",
+      "sha256": "071dfc062690e90b734c0b2273ce72ad0ffa95f0c74596bc250dcfd960262841",
+      "source_url": "https://snapshot.debian.org/file/91c821f4ebf995002587da89ca2946111c50177d",
+      "version": "0.2.19-2"
+    },
+    {
+      "asset": "rust-password-hash__0.5.0-1__b67e774d376a__rust-password-hash_0.5.0-1.debian.tar.xz",
+      "bytes": 3024,
+      "project": "rust-password-hash",
+      "sha256": "b67e774d376acc22856a039c1389fbef8f9cad7e547d328a88b583f36b7e347b",
+      "source_url": "https://snapshot.debian.org/file/f8d5762d41af688c15f36936a628bd119abb1241",
+      "version": "0.5.0-1"
+    },
+    {
+      "asset": "rust-password-hash__0.5.0-1__7b9537874617__rust-password-hash_0.5.0-1.dsc",
+      "bytes": 2316,
+      "project": "rust-password-hash",
+      "sha256": "7b95378746170691fc5598430921e133ff4232e8ca816e68a529f8b2ccb3b691",
+      "source_url": "https://snapshot.debian.org/file/11884055b87a8bdc0157e20a0fb4629ee1c645b7",
+      "version": "0.5.0-1"
+    },
+    {
+      "asset": "rust-password-hash__0.5.0-1__346f04948ba9__rust-password-hash_0.5.0.orig.tar.gz",
+      "bytes": 26884,
+      "project": "rust-password-hash",
+      "sha256": "346f04948ba92c43e8469c1ee6736c7563d71012b17d40745260fe106aac2166",
+      "source_url": "https://snapshot.debian.org/file/936f86dad191c1448a617efbd05a694e95fa731f",
+      "version": "0.5.0-1"
+    },
+    {
+      "asset": "rust-rand-core__0.6.4-2__837d4c4b51f9__rust-rand-core_0.6.4-2.debian.tar.xz",
+      "bytes": 3692,
+      "project": "rust-rand-core",
+      "sha256": "837d4c4b51f94a2174475dbb0fc8cbfd2ed7beced4da5459dacb329fa2c868e1",
+      "source_url": "https://snapshot.debian.org/file/c6a599650df506af11a83ebfd69bbb0af8da5672",
+      "version": "0.6.4-2"
+    },
+    {
+      "asset": "rust-rand-core__0.6.4-2__1f6938a4015b__rust-rand-core_0.6.4-2.dsc",
+      "bytes": 2468,
+      "project": "rust-rand-core",
+      "sha256": "1f6938a4015b700fc497dd3c114a56abbcc7fddd12dee47442a88767ac9bb8e2",
+      "source_url": "https://snapshot.debian.org/file/28f89e804eca5a49811e4b687c24915239278db9",
+      "version": "0.6.4-2"
+    },
+    {
+      "asset": "rust-rand-core__0.6.4-2__ec0be4795e2f__rust-rand-core_0.6.4.orig.tar.gz",
+      "bytes": 22666,
+      "project": "rust-rand-core",
+      "sha256": "ec0be4795e2f6a28069bec0b5ff3e2ac9bafc99e6a9a7dc3547996c5c816922c",
+      "source_url": "https://snapshot.debian.org/file/97e18722c501d144ca836e60a4715fd1427ab7d1",
+      "version": "0.6.4-2"
+    },
+    {
+      "asset": "rust-regex__1.11.1-2__26f774f2a703__rust-regex_1.11.1-2.debian.tar.xz",
+      "bytes": 6512,
+      "project": "rust-regex",
+      "sha256": "26f774f2a703482181b21b5aff7d2b9126e8cae8269a93f848cbba8991d2279c",
+      "source_url": "https://snapshot.debian.org/file/45e59a9b9c7e4336faaac5b9ca1a07b2e554ccbd",
+      "version": "1.11.1-2"
+    },
+    {
+      "asset": "rust-regex__1.11.1-2__091cc8f5f2cf__rust-regex_1.11.1-2.dsc",
+      "bytes": 4070,
+      "project": "rust-regex",
+      "sha256": "091cc8f5f2cff589a949d39f38b5c55c350e3eee5aa8d870d94058a37db34df7",
+      "source_url": "https://snapshot.debian.org/file/9f7c6f1a583f56dcf0dc7d581e2e8dd12c06dc14",
+      "version": "1.11.1-2"
+    },
+    {
+      "asset": "rust-regex__1.11.1-2__b544ef1b4eac__rust-regex_1.11.1.orig.tar.gz",
+      "bytes": 254170,
+      "project": "rust-regex",
+      "sha256": "b544ef1b4eac5dc2db33ea63606ae9ffcfac26c1416a2806ae0bf5f56b201191",
+      "source_url": "https://snapshot.debian.org/file/07cb85115de008ec2cd9ca118fb68b73706e6aed",
+      "version": "1.11.1-2"
+    },
+    {
+      "asset": "rust-regex-automata__0.4.9-2__11b98d19a71d__rust-regex-automata_0.4.9-2.debian.tar.xz",
+      "bytes": 9464,
+      "project": "rust-regex-automata",
+      "sha256": "11b98d19a71d0f8782d887135371c43c64f370e3d4751b8ca01f3b74c0bd85be",
+      "source_url": "https://snapshot.debian.org/file/b43cf8476fbdd1f9e035751f8fc3165a27dfb2fd",
+      "version": "0.4.9-2"
+    },
+    {
+      "asset": "rust-regex-automata__0.4.9-2__fe6100d84deb__rust-regex-automata_0.4.9-2.dsc",
+      "bytes": 2765,
+      "project": "rust-regex-automata",
+      "sha256": "fe6100d84deb445d6b774fb236a89eb2ad3f5c050d310ff2bf4e89aadb29b8c3",
+      "source_url": "https://snapshot.debian.org/file/72c1c82927ba0af294f29c06c420fc9d2f2fa190",
+      "version": "0.4.9-2"
+    },
+    {
+      "asset": "rust-regex-automata__0.4.9-2__809e8dc61f6d__rust-regex-automata_0.4.9.orig.tar.gz",
+      "bytes": 618525,
+      "project": "rust-regex-automata",
+      "sha256": "809e8dc61f6de73b46c85f4c96486310fe304c434cfa43669d7b40f711150908",
+      "source_url": "https://snapshot.debian.org/file/b7cdf35bd812944d4784dc99a1b11ffe017fe4f9",
+      "version": "0.4.9-2"
+    },
+    {
+      "asset": "rust-regex-syntax__0.8.5-1__e91be4261db5__rust-regex-syntax_0.8.5-1.debian.tar.xz",
+      "bytes": 4656,
+      "project": "rust-regex-syntax",
+      "sha256": "e91be4261db59d435539bbfc47911f69ddb6391a1700c78506a3b3bef266f7ef",
+      "source_url": "https://snapshot.debian.org/file/fb131cf85d9c5a3e4d4adca398cf74a27967533d",
+      "version": "0.8.5-1"
+    },
+    {
+      "asset": "rust-regex-syntax__0.8.5-1__8eb84d33a840__rust-regex-syntax_0.8.5-1.dsc",
+      "bytes": 2274,
+      "project": "rust-regex-syntax",
+      "sha256": "8eb84d33a84041bb0b21b3de8afb24ba1310a8bebab2d8452afe43dba4269155",
+      "source_url": "https://snapshot.debian.org/file/d7215a9cfb2d4150d5588e624cb219ca72fa07ce",
+      "version": "0.8.5-1"
+    },
+    {
+      "asset": "rust-regex-syntax__0.8.5-1__a2f15dee26d2__rust-regex-syntax_0.8.5.orig.tar.gz",
+      "bytes": 357304,
+      "project": "rust-regex-syntax",
+      "sha256": "a2f15dee26d2376c65b5d90ba8289ac685df876df4b4ab0968f4d9287861d2f6",
+      "source_url": "https://snapshot.debian.org/file/47267c11dcb028943124dac359aed8d543bd2775",
+      "version": "0.8.5-1"
+    },
+    {
+      "asset": "rust-rustix__0.38.37-4__416f7a02bb0d__rust-rustix_0.38.37-4.debian.tar.xz",
+      "bytes": 12216,
+      "project": "rust-rustix",
+      "sha256": "416f7a02bb0d23e39a2ff410939e08454baf019c6737cf7667d1df1bef5f1b43",
+      "source_url": "https://snapshot.debian.org/file/a16ef6c99c6cd5e34a41f243d4b38c805b0b7c5f",
+      "version": "0.38.37-4"
+    },
+    {
+      "asset": "rust-rustix__0.38.37-4__8c94643d5689__rust-rustix_0.38.37-4.dsc",
+      "bytes": 3163,
+      "project": "rust-rustix",
+      "sha256": "8c94643d56893892f7c081f13e67211c3515f76024f0db2e9c2821f2ff903c33",
+      "source_url": "https://snapshot.debian.org/file/cece279c4e720ac1c5119445c487773ce8fb0a5f",
+      "version": "0.38.37-4"
+    },
+    {
+      "asset": "rust-rustix__0.38.37-4__8acb788b847c__rust-rustix_0.38.37.orig.tar.gz",
+      "bytes": 371243,
+      "project": "rust-rustix",
+      "sha256": "8acb788b847c24f28525660c4d7758620a7210875711f79e7f663cc152726811",
+      "source_url": "https://snapshot.debian.org/file/01f8151a999a99556183f86b7d89311026930006",
+      "version": "0.38.37-4"
+    },
+    {
+      "asset": "rust-sequoia-openpgp__2.0.0-2+deb13u1__817b79e4f22a__rust-sequoia-openpgp_2.0.0-2+deb13u1.debian.tar.xz",
+      "bytes": 9908,
+      "project": "rust-sequoia-openpgp",
+      "sha256": "817b79e4f22a69844a0a4e44e4154ba8d4f85ccd488f563dd67d08a8d350eb74",
+      "source_url": "https://snapshot.debian.org/file/c892b91f18c3169126e995a6102b4f52a26599a9",
+      "version": "2.0.0-2+deb13u1"
+    },
+    {
+      "asset": "rust-sequoia-openpgp__2.0.0-2+deb13u1__b3ff010f9ae8__rust-sequoia-openpgp_2.0.0-2+deb13u1.dsc",
+      "bytes": 3712,
+      "project": "rust-sequoia-openpgp",
+      "sha256": "b3ff010f9ae8faeb8e459f89b6fa6de66647556de239c8d46e3a410f047bc1fc",
+      "source_url": "https://snapshot.debian.org/file/65187341b86cab45df01428c4af769b58973dca0",
+      "version": "2.0.0-2+deb13u1"
+    },
+    {
+      "asset": "rust-sequoia-openpgp__2.0.0-2+deb13u1__015e5fc3d023__rust-sequoia-openpgp_2.0.0.orig.tar.gz",
+      "bytes": 3049067,
+      "project": "rust-sequoia-openpgp",
+      "sha256": "015e5fc3d023418b9db98ca9a7f3e90b305872eeafe5ca45c5c32b5eb335c1e8",
+      "source_url": "https://snapshot.debian.org/file/f6f57af8419ec25748629bb2957572a36ce695b7",
+      "version": "2.0.0-2+deb13u1"
+    },
+    {
+      "asset": "rust-sequoia-policy-config__0.8.0-1__9a00e0db1ee5__rust-sequoia-policy-config_0.8.0-1.debian.tar.xz",
+      "bytes": 2936,
+      "project": "rust-sequoia-policy-config",
+      "sha256": "9a00e0db1ee576be1ec7832be469e45c7afc537c73041299e7381c64c3c4bbeb",
+      "source_url": "https://snapshot.debian.org/file/d2914dede64d92f79ffe2c0a7286688444f22c99",
+      "version": "0.8.0-1"
+    },
+    {
+      "asset": "rust-sequoia-policy-config__0.8.0-1__b2b5d077d824__rust-sequoia-policy-config_0.8.0-1.dsc",
+      "bytes": 2880,
+      "project": "rust-sequoia-policy-config",
+      "sha256": "b2b5d077d8245969c0872bc30e015f8f72b4569d1bc6090efe1ffa5c7719da87",
+      "source_url": "https://snapshot.debian.org/file/47ffe83a2d96f2582bf8df0968bf1009ac4e17b8",
+      "version": "0.8.0-1"
+    },
+    {
+      "asset": "rust-sequoia-policy-config__0.8.0-1__8e016b708d64__rust-sequoia-policy-config_0.8.0.orig.tar.gz",
+      "bytes": 102267,
+      "project": "rust-sequoia-policy-config",
+      "sha256": "8e016b708d64857b6a97e1a331d9471b73e30ed450d247628e1a0ce236b1e597",
+      "source_url": "https://snapshot.debian.org/file/e84e4707f67cd5f0d93344629a95b758ba17ee39",
+      "version": "0.8.0-1"
+    },
+    {
+      "asset": "rust-serde__1.0.217-1__d020bcfdef35__rust-serde_1.0.217-1.debian.tar.xz",
+      "bytes": 4136,
+      "project": "rust-serde",
+      "sha256": "d020bcfdef35bb2a94a28b85f84e3dc8610aeaa9e910c688af16e10dafed7dd7",
+      "source_url": "https://snapshot.debian.org/file/f0d89c89f340170d4a63c3b1c14f792f28ce6ac4",
+      "version": "1.0.217-1"
+    },
+    {
+      "asset": "rust-serde__1.0.217-1__84c337350026__rust-serde_1.0.217-1.dsc",
+      "bytes": 1772,
+      "project": "rust-serde",
+      "sha256": "84c33735002681681a10bc804d324a20d9ea7d77f69b303882719a9cefce724e",
+      "source_url": "https://snapshot.debian.org/file/0f4dd28080383b45a1c76f68d4ef834713fd3432",
+      "version": "1.0.217-1"
+    },
+    {
+      "asset": "rust-serde__1.0.217-1__02fc4265df13__rust-serde_1.0.217.orig.tar.gz",
+      "bytes": 79019,
+      "project": "rust-serde",
+      "sha256": "02fc4265df13d6fa1d00ecff087228cc0a2b5f3c0e87e258d8b94a156e984c70",
+      "source_url": "https://snapshot.debian.org/file/314fb04962ff73c8804be58713420312bbd2d6ad",
+      "version": "1.0.217-1"
+    },
+    {
+      "asset": "rust-sha1collisiondetection__0.3.2-1__0a148b3bba99__rust-sha1collisiondetection_0.3.2-1.debian.tar.xz",
+      "bytes": 4948,
+      "project": "rust-sha1collisiondetection",
+      "sha256": "0a148b3bba99111ba0032d8c7ff37eb1a9277d96cc01e300bb34e2cc723582da",
+      "source_url": "https://snapshot.debian.org/file/aa120bec906bcb178caae96bc6fe8c8c462228fa",
+      "version": "0.3.2-1"
+    },
+    {
+      "asset": "rust-sha1collisiondetection__0.3.2-1__96b9eef3ac0e__rust-sha1collisiondetection_0.3.2-1.dsc",
+      "bytes": 2584,
+      "project": "rust-sha1collisiondetection",
+      "sha256": "96b9eef3ac0e24234f3c9918101d2e5b5b725cee459d6d982a3aa7d487015634",
+      "source_url": "https://snapshot.debian.org/file/fec8bf29f95c7d93066cb439d3f07aaad8ab1034",
+      "version": "0.3.2-1"
+    },
+    {
+      "asset": "rust-sha1collisiondetection__0.3.2-1__31c0b86a0521__rust-sha1collisiondetection_0.3.2.orig.tar.gz",
+      "bytes": 801440,
+      "project": "rust-sha1collisiondetection",
+      "sha256": "31c0b86a052106b16741199985c9ec2bf501f619f70c48fa479b44b093ad9a68",
+      "source_url": "https://snapshot.debian.org/file/a521f9425f33f5c0f9dbd229ef0d74f4df5e955d",
+      "version": "0.3.2-1"
+    },
+    {
+      "asset": "rust-smallvec__1.13.2-1__e63475ae919a__rust-smallvec_1.13.2-1.debian.tar.xz",
+      "bytes": 4012,
+      "project": "rust-smallvec",
+      "sha256": "e63475ae919a64a0937c60283c57c340afc262a921ee08a5fdb4811922a7d5e3",
+      "source_url": "https://snapshot.debian.org/file/ef0fdabb2e74aee157f219fb296962c5dfdfc74c",
+      "version": "1.13.2-1"
+    },
+    {
+      "asset": "rust-smallvec__1.13.2-1__31aee6988d6d__rust-smallvec_1.13.2-1.dsc",
+      "bytes": 2183,
+      "project": "rust-smallvec",
+      "sha256": "31aee6988d6dc28f17b2956d0ad71e320857f3f2cbf4f00865d8b050da720dff",
+      "source_url": "https://snapshot.debian.org/file/f2fa70215ab3054ed6ae265b68adc721d6a7f41c",
+      "version": "1.13.2-1"
+    },
+    {
+      "asset": "rust-smallvec__1.13.2-1__3c5e1a9a646d__rust-smallvec_1.13.2.orig.tar.gz",
+      "bytes": 35216,
+      "project": "rust-smallvec",
+      "sha256": "3c5e1a9a646d36c3599cd173a41282daf47c44583ad367b8e6837255952e5c67",
+      "source_url": "https://snapshot.debian.org/file/bdb4f36b4dfd63e97d686d9a5b1c33bbd3b75deb",
+      "version": "1.13.2-1"
+    },
+    {
+      "asset": "rust-strsim-0.10__0.10.0-4__b4618954cdee__rust-strsim-0.10_0.10.0-4.debian.tar.xz",
+      "bytes": 3132,
+      "project": "rust-strsim-0.10",
+      "sha256": "b4618954cdee560f90529fafa7215a3f9ce8cb371ecfa8894507d204da61ac62",
+      "source_url": "https://snapshot.debian.org/file/2c789cdce5ed9e39228d56c5eed2ab9b6a3c8ca6",
+      "version": "0.10.0-4"
+    },
+    {
+      "asset": "rust-strsim-0.10__0.10.0-4__8fad57c67c07__rust-strsim-0.10_0.10.0-4.dsc",
+      "bytes": 2266,
+      "project": "rust-strsim-0.10",
+      "sha256": "8fad57c67c078cb9e35633711521c2905760bc0d147703e48ee53fbcff8df5a0",
+      "source_url": "https://snapshot.debian.org/file/cfa44b189dd276f349aa1af27570badbbc194762",
+      "version": "0.10.0-4"
+    },
+    {
+      "asset": "rust-strsim-0.10__0.10.0-4__73473c0e59e6__rust-strsim-0.10_0.10.0.orig.tar.gz",
+      "bytes": 11355,
+      "project": "rust-strsim-0.10",
+      "sha256": "73473c0e59e6d5812c5dfe2a064a6444949f089e20eec9a2e5506596494e4623",
+      "source_url": "https://snapshot.debian.org/file/379c3a5fe30e4f6dc378d476dbb4be8fabbc0729",
+      "version": "0.10.0-4"
+    },
+    {
+      "asset": "rust-subtle__2.6.1-1__6dd54ce7fd46__rust-subtle_2.6.1-1.debian.tar.xz",
+      "bytes": 3348,
+      "project": "rust-subtle",
+      "sha256": "6dd54ce7fd46849ab90a238d078a61d5a4815ed1f7c702d771b42a05a4aa85e9",
+      "source_url": "https://snapshot.debian.org/file/3542d26fb65dbf53c040ee87918b0534ebe25fc6",
+      "version": "2.6.1-1"
+    },
+    {
+      "asset": "rust-subtle__2.6.1-1__efd8cbe5c09f__rust-subtle_2.6.1-1.dsc",
+      "bytes": 2348,
+      "project": "rust-subtle",
+      "sha256": "efd8cbe5c09f1cc4122c8c7a2ff39ba5d8857ef63b2d9158b55e1154ee87714d",
+      "source_url": "https://snapshot.debian.org/file/c3a096fc64e1cf25202b655f9a837441476ff894",
+      "version": "2.6.1-1"
+    },
+    {
+      "asset": "rust-subtle__2.6.1-1__13c2bddecc57__rust-subtle_2.6.1.orig.tar.gz",
+      "bytes": 14562,
+      "project": "rust-subtle",
+      "sha256": "13c2bddecc57b384dee18652358fb23172facb8a2c51ccc10d74c157bdea3292",
+      "source_url": "https://snapshot.debian.org/file/e0f8fa1050bdf893e86b6560c551e41eb94eb902",
+      "version": "2.6.1-1"
+    },
+    {
+      "asset": "rust-terminal-size__0.4.1-2__1f80ef16f345__rust-terminal-size_0.4.1-2.debian.tar.xz",
+      "bytes": 4628,
+      "project": "rust-terminal-size",
+      "sha256": "1f80ef16f34513ac12ca498b9b2e90a467a038645cf96ddb6528ca9efdb6e61b",
+      "source_url": "https://snapshot.debian.org/file/5c9951158bba2b9fa44008fa41a1033ee0772260",
+      "version": "0.4.1-2"
+    },
+    {
+      "asset": "rust-terminal-size__0.4.1-2__df8f90d8f3ed__rust-terminal-size_0.4.1-2.dsc",
+      "bytes": 2388,
+      "project": "rust-terminal-size",
+      "sha256": "df8f90d8f3ed1eacca51a6194a99771a1db54d927b722a9c96f9f4014e8e826e",
+      "source_url": "https://snapshot.debian.org/file/27116d97ed49d93e34809d281904017ac9b5f278",
+      "version": "0.4.1-2"
+    },
+    {
+      "asset": "rust-terminal-size__0.4.1-2__5352447f921f__rust-terminal-size_0.4.1.orig.tar.gz",
+      "bytes": 10037,
+      "project": "rust-terminal-size",
+      "sha256": "5352447f921fda68cf61b4101566c0bdb5104eff6804d0678e5227580ab6a4e9",
+      "source_url": "https://snapshot.debian.org/file/0442d936e98d47ac1e5caf7981a247a04179e9a0",
+      "version": "0.4.1-2"
+    },
+    {
+      "asset": "rust-thiserror__2.0.11-1__8d9d8a7574de__rust-thiserror_2.0.11-1.debian.tar.xz",
+      "bytes": 3072,
+      "project": "rust-thiserror",
+      "sha256": "8d9d8a7574de1b4bd2081552cd5badfbd840e0b904fee57cf62473352a5b4efb",
+      "source_url": "https://snapshot.debian.org/file/cc312101f7131e03ffc11b7889661fc03765fd71",
+      "version": "2.0.11-1"
+    },
+    {
+      "asset": "rust-thiserror__2.0.11-1__93136745124b__rust-thiserror_2.0.11-1.dsc",
+      "bytes": 2499,
+      "project": "rust-thiserror",
+      "sha256": "93136745124b5bca68133f5cbf99fc13661c2fdc1fccb85ee2dc7ecef61bb65a",
+      "source_url": "https://snapshot.debian.org/file/d39a12426cf8b5e32c987bf76da67cc50e6972ad",
+      "version": "2.0.11-1"
+    },
+    {
+      "asset": "rust-thiserror__2.0.11-1__d452f284b73e__rust-thiserror_2.0.11.orig.tar.gz",
+      "bytes": 28648,
+      "project": "rust-thiserror",
+      "sha256": "d452f284b73e6d76dd36758a0c8684b1d5be31f92b89d07fd5822175732206fc",
+      "source_url": "https://snapshot.debian.org/file/7a1eb1363f09986a8e9f63134b1398b0ceb72160",
+      "version": "2.0.11-1"
+    },
+    {
+      "asset": "rust-thiserror-1__1.0.69-1__aca5d823d6f0__rust-thiserror-1_1.0.69-1.debian.tar.xz",
+      "bytes": 3140,
+      "project": "rust-thiserror-1",
+      "sha256": "aca5d823d6f0a205849eac54e74bc23cbc5b9810d0cb5ccdbb1c8b7e6a839fb6",
+      "source_url": "https://snapshot.debian.org/file/256d667e5b4d60233ac1e13c4588b05adcda7d1e",
+      "version": "1.0.69-1"
+    },
+    {
+      "asset": "rust-thiserror-1__1.0.69-1__44914a7eec4e__rust-thiserror-1_1.0.69-1.dsc",
+      "bytes": 1985,
+      "project": "rust-thiserror-1",
+      "sha256": "44914a7eec4ebd7017bdfccd5c7bdc70f9649c41dce1c6df936111ea30ba2bfa",
+      "source_url": "https://snapshot.debian.org/file/26f2b6040900c2cfa6c1aa716dab9171792b4df0",
+      "version": "1.0.69-1"
+    },
+    {
+      "asset": "rust-thiserror-1__1.0.69-1__b6aaf5339b57__rust-thiserror-1_1.0.69.orig.tar.gz",
+      "bytes": 22198,
+      "project": "rust-thiserror-1",
+      "sha256": "b6aaf5339b578ea85b50e080feb250a3e8ae8cfcdff9a461c9ec2904bc923f52",
+      "source_url": "https://snapshot.debian.org/file/9a2c3eccd1e1d112809881fd6d7c6234930dc610",
+      "version": "1.0.69-1"
+    },
+    {
+      "asset": "rust-tinyvec__1.6.0-2__eb5e3ef79c7a__rust-tinyvec_1.6.0-2.debian.tar.xz",
+      "bytes": 3976,
+      "project": "rust-tinyvec",
+      "sha256": "eb5e3ef79c7a7bd5d5ce86f1acfd6f28c88de9f94b9ab1da35e3553b4a3c8a30",
+      "source_url": "https://snapshot.debian.org/file/54c029e04fa8167a038046c9d5b2a57917201754",
+      "version": "1.6.0-2"
+    },
+    {
+      "asset": "rust-tinyvec__1.6.0-2__4a636c770b3f__rust-tinyvec_1.6.0-2.dsc",
+      "bytes": 2506,
+      "project": "rust-tinyvec",
+      "sha256": "4a636c770b3f47c212ae34975d4de0a15a1beabbb7d8d8c8f71da0106d7652fa",
+      "source_url": "https://snapshot.debian.org/file/f89d353e09b586a6074f8c5147481872a735e18a",
+      "version": "1.6.0-2"
+    },
+    {
+      "asset": "rust-tinyvec__1.6.0-2__87cc5ceb3875__rust-tinyvec_1.6.0.orig.tar.gz",
+      "bytes": 45991,
+      "project": "rust-tinyvec",
+      "sha256": "87cc5ceb3875bb20c2890005a4e226a4651264a5c75edb2421b52861a0a0cb50",
+      "source_url": "https://snapshot.debian.org/file/7dd87afeef1bdf45e3ffadab4a8c4f9d201e09ae",
+      "version": "1.6.0-2"
+    },
+    {
+      "asset": "rust-tinyvec-macros__0.1.0-1__b65ff96734b0__rust-tinyvec-macros_0.1.0-1.debian.tar.xz",
+      "bytes": 2884,
+      "project": "rust-tinyvec-macros",
+      "sha256": "b65ff96734b066508731ae64ccf12cff7ccc9756641d7d827b623472d0e77ad8",
+      "source_url": "https://snapshot.debian.org/file/37c80dd92e49a80d7c3764a3162d729eaad00427",
+      "version": "0.1.0-1"
+    },
+    {
+      "asset": "rust-tinyvec-macros__0.1.0-1__b05d835aaf76__rust-tinyvec-macros_0.1.0-1.dsc",
+      "bytes": 2210,
+      "project": "rust-tinyvec-macros",
+      "sha256": "b05d835aaf76a4f3f8a6aabf71c00c51b7524ddaa1e9f2e6e4c515e81884c0d3",
+      "source_url": "https://snapshot.debian.org/file/b0e7bb7ac1f1ca470883dd3b3cb2b093db78b60c",
+      "version": "0.1.0-1"
+    },
+    {
+      "asset": "rust-tinyvec-macros__0.1.0-1__cda74da7e1a6__rust-tinyvec-macros_0.1.0.orig.tar.gz",
+      "bytes": 1817,
+      "project": "rust-tinyvec-macros",
+      "sha256": "cda74da7e1a664f795bb1f8a87ec406fb89a02522cf6e50620d016add6dbbf5c",
+      "source_url": "https://snapshot.debian.org/file/3094f8138af3840feb300c9be61dc85368846bf9",
+      "version": "0.1.0-1"
+    },
+    {
+      "asset": "rust-toml-0.5__0.5.11-4__1e722d8ac2c6__rust-toml-0.5_0.5.11-4.debian.tar.xz",
+      "bytes": 3512,
+      "project": "rust-toml-0.5",
+      "sha256": "1e722d8ac2c6ca7754f495217a26a976d1f163c412daeb35ef07d8984cde133d",
+      "source_url": "https://snapshot.debian.org/file/3e32677cec0a7f67a4db11f39807ecde87158169",
+      "version": "0.5.11-4"
+    },
+    {
+      "asset": "rust-toml-0.5__0.5.11-4__dc17bdb46d01__rust-toml-0.5_0.5.11-4.dsc",
+      "bytes": 2349,
+      "project": "rust-toml-0.5",
+      "sha256": "dc17bdb46d0173b59d8e8eba9940ee0557108d5bcae25daf0b659dc9157a9815",
+      "source_url": "https://snapshot.debian.org/file/448264938b5ba8a9d4d8f494650eab644b70f3c1",
+      "version": "0.5.11-4"
+    },
+    {
+      "asset": "rust-toml-0.5__0.5.11-4__f4f7f0dd8d50__rust-toml-0.5_0.5.11.orig.tar.gz",
+      "bytes": 54910,
+      "project": "rust-toml-0.5",
+      "sha256": "f4f7f0dd8d50a853a531c426359045b1998f04219d88799810762cd4ad314234",
+      "source_url": "https://snapshot.debian.org/file/02030065a9eb1eb1d3213fd01f5b5d7385a565a8",
+      "version": "0.5.11-4"
+    },
+    {
+      "asset": "rust-typenum__1.17.0-3__cc9a536f2732__rust-typenum_1.17.0-3.debian.tar.xz",
+      "bytes": 4560,
+      "project": "rust-typenum",
+      "sha256": "cc9a536f27325e5a3989ad7af509d495d1e737b8cb680d39b9fbc42f13f0e185",
+      "source_url": "https://snapshot.debian.org/file/c2b807fe1fbfe7bb322490f7efbd0a2fa500088d",
+      "version": "1.17.0-3"
+    },
+    {
+      "asset": "rust-typenum__1.17.0-3__7abe75ba67e5__rust-typenum_1.17.0-3.dsc",
+      "bytes": 2314,
+      "project": "rust-typenum",
+      "sha256": "7abe75ba67e55e987ea58e2e65024176f5bc16cbb4f1e0ff1507c1021bac07b2",
+      "source_url": "https://snapshot.debian.org/file/f0a2b4b66f9e0e328cbe1e864c7fd70437de6221",
+      "version": "1.17.0-3"
+    },
+    {
+      "asset": "rust-typenum__1.17.0-3__42ff0bf0c66b__rust-typenum_1.17.0.orig.tar.gz",
+      "bytes": 42849,
+      "project": "rust-typenum",
+      "sha256": "42ff0bf0c66b8238c6f3b578df37d0b7848e55df8577b3f74f92a69acceeb825",
+      "source_url": "https://snapshot.debian.org/file/fc76c4b86c035f557e66372f24425ec360a64b3b",
+      "version": "1.17.0-3"
+    },
+    {
+      "asset": "rust-unicode-bidi__0.3.17-1__a7f688bb9eb7__rust-unicode-bidi_0.3.17-1.debian.tar.xz",
+      "bytes": 3568,
+      "project": "rust-unicode-bidi",
+      "sha256": "a7f688bb9eb70eef08afe64142fec7aacb8a6b0bda852debb5255b95693e26f1",
+      "source_url": "https://snapshot.debian.org/file/693d8013b247dbcde36e6469afbb917ecda3f2df",
+      "version": "0.3.17-1"
+    },
+    {
+      "asset": "rust-unicode-bidi__0.3.17-1__1d8db1deafc8__rust-unicode-bidi_0.3.17-1.dsc",
+      "bytes": 2346,
+      "project": "rust-unicode-bidi",
+      "sha256": "1d8db1deafc8185d69389b943985eb34c7e5d251ecf0878ff6bb119e2abbc631",
+      "source_url": "https://snapshot.debian.org/file/12c3d2b6c30e4e6229c5e78babd9976331c6870a",
+      "version": "0.3.17-1"
+    },
+    {
+      "asset": "rust-unicode-bidi__0.3.17-1__5ab17db44d73__rust-unicode-bidi_0.3.17.orig.tar.gz",
+      "bytes": 58120,
+      "project": "rust-unicode-bidi",
+      "sha256": "5ab17db44d7388991a428b2ee655ce0c212e862eff1768a455c58f9aad6e7893",
+      "source_url": "https://snapshot.debian.org/file/f4e33925b68f9ff4eb87162d218d37fc1b39205c",
+      "version": "0.3.17-1"
+    },
+    {
+      "asset": "rust-unicode-joining-type__1.0.0-1__57e87b39ab01__rust-unicode-joining-type_1.0.0-1.debian.tar.xz",
+      "bytes": 1936,
+      "project": "rust-unicode-joining-type",
+      "sha256": "57e87b39ab011debcf2cc4f44bc04abd606ecef74f29839d51090062549f980e",
+      "source_url": "https://snapshot.debian.org/file/d5e9ca9b4732ba067abed2921f3ea15a84038a04",
+      "version": "1.0.0-1"
+    },
+    {
+      "asset": "rust-unicode-joining-type__1.0.0-1__49a7477979ae__rust-unicode-joining-type_1.0.0-1.dsc",
+      "bytes": 2364,
+      "project": "rust-unicode-joining-type",
+      "sha256": "49a7477979aeaf9ae6e6616e96efb388814e1b1b49a46adab21a35920597ba8a",
+      "source_url": "https://snapshot.debian.org/file/89303948abe178fd179047230905b68f6096e3b3",
+      "version": "1.0.0-1"
+    },
+    {
+      "asset": "rust-unicode-joining-type__1.0.0-1__d8d00a781709__rust-unicode-joining-type_1.0.0.orig.tar.gz",
+      "bytes": 18167,
+      "project": "rust-unicode-joining-type",
+      "sha256": "d8d00a78170970967fdb83f9d49b92f959ab2bb829186b113e4f4604ad98e180",
+      "source_url": "https://snapshot.debian.org/file/9f7da6da527b4809bbc05a4e2112149da1625895",
+      "version": "1.0.0-1"
+    },
+    {
+      "asset": "rust-unicode-normalization__0.1.24-1__f40802d74715__rust-unicode-normalization_0.1.24-1.debian.tar.xz",
+      "bytes": 3728,
+      "project": "rust-unicode-normalization",
+      "sha256": "f40802d74715eb7e2d93d018187d386b5cd04b60fa8e40b55f99253d62333d5c",
+      "source_url": "https://snapshot.debian.org/file/f2aca315dffa43838689367de9be5e84ce8a79f3",
+      "version": "0.1.24-1"
+    },
+    {
+      "asset": "rust-unicode-normalization__0.1.24-1__a609654c7be1__rust-unicode-normalization_0.1.24-1.dsc",
+      "bytes": 1893,
+      "project": "rust-unicode-normalization",
+      "sha256": "a609654c7be16c4203500e7a3d3e4bc8deb2a79007d928b50f4b301eb7ea79a9",
+      "source_url": "https://snapshot.debian.org/file/05247ad76af719ac1818a107167196254aba49c2",
+      "version": "0.1.24-1"
+    },
+    {
+      "asset": "rust-unicode-normalization__0.1.24-1__5033c97c4262__rust-unicode-normalization_0.1.24.orig.tar.gz",
+      "bytes": 126536,
+      "project": "rust-unicode-normalization",
+      "sha256": "5033c97c4262335cded6d6fc3e5c18ab755e1a3dc96376350f3d8e9f009ad956",
+      "source_url": "https://snapshot.debian.org/file/dc837376970386fb923d76b64b174f8d8f6678a2",
+      "version": "0.1.24-1"
+    },
+    {
+      "asset": "rust-utf8-iter__1.0.4-1__4c436c892ea4__rust-utf8-iter_1.0.4-1.debian.tar.xz",
+      "bytes": 2920,
+      "project": "rust-utf8-iter",
+      "sha256": "4c436c892ea4a13d0386fcfa2600b93ba2950118c773507e0f63f146a225d86d",
+      "source_url": "https://snapshot.debian.org/file/e5ff628248cb492232721fa0ea7b46df677def70",
+      "version": "1.0.4-1"
+    },
+    {
+      "asset": "rust-utf8-iter__1.0.4-1__df5bc076eb6e__rust-utf8-iter_1.0.4-1.dsc",
+      "bytes": 2212,
+      "project": "rust-utf8-iter",
+      "sha256": "df5bc076eb6e02863f91e8edad54eae8e23884ad0ae96fcaa40501aab8cdc050",
+      "source_url": "https://snapshot.debian.org/file/846164d44a474c4fff9bbc0557ef93bc650a5194",
+      "version": "1.0.4-1"
+    },
+    {
+      "asset": "rust-utf8-iter__1.0.4-1__b6c140620e7f__rust-utf8-iter_1.0.4.orig.tar.gz",
+      "bytes": 10437,
+      "project": "rust-utf8-iter",
+      "sha256": "b6c140620e7ffbb22c2dee59cafe6084a59b5ffc27a8859a5f0d494b5d52b6be",
+      "source_url": "https://snapshot.debian.org/file/71be68391cef5e3f030f3de6cbc8cb2c0375fb1b",
+      "version": "1.0.4-1"
+    },
+    {
+      "asset": "rust-utf8parse__0.2.1-1__08e7fc92ad8d__rust-utf8parse_0.2.1-1.debian.tar.xz",
+      "bytes": 2752,
+      "project": "rust-utf8parse",
+      "sha256": "08e7fc92ad8d7c8517c1102201c005e23875f1f9d5729f0eb6aa5645b78c2a4e",
+      "source_url": "https://snapshot.debian.org/file/ea99b45efe0f21161b4b222e7e3f57580681aa21",
+      "version": "0.2.1-1"
+    },
+    {
+      "asset": "rust-utf8parse__0.2.1-1__f73564c9054f__rust-utf8parse_0.2.1-1.dsc",
+      "bytes": 2110,
+      "project": "rust-utf8parse",
+      "sha256": "f73564c9054fec31a2a487f166c8806f508451bd005b2f15bd21032a401b4ddb",
+      "source_url": "https://snapshot.debian.org/file/5a82a196dd0e4ac1e93bb18e8710562213ec44b0",
+      "version": "0.2.1-1"
+    },
+    {
+      "asset": "rust-utf8parse__0.2.1-1__711b9620af19__rust-utf8parse_0.2.1.orig.tar.gz",
+      "bytes": 13435,
+      "project": "rust-utf8parse",
+      "sha256": "711b9620af191e0cdc7468a8d14e709c3dcdb115b36f838e601583af800a370a",
+      "source_url": "https://snapshot.debian.org/file/7534d2866d9d93b2180640f2776a346c9b179dbf",
+      "version": "0.2.1-1"
+    },
+    {
+      "asset": "rust-xxhash-rust__0.8.15-1__d45170003eea__rust-xxhash-rust_0.8.15-1.debian.tar.xz",
+      "bytes": 55832,
+      "project": "rust-xxhash-rust",
+      "sha256": "d45170003eea56725ff54165ef6462aef47c7501faf062a1ea6ffa8903bf5a5e",
+      "source_url": "https://snapshot.debian.org/file/4d7ebff6ab8dcf823cc7dc5a94951b1ecfe4d672",
+      "version": "0.8.15-1"
+    },
+    {
+      "asset": "rust-xxhash-rust__0.8.15-1__60d6d9cab099__rust-xxhash-rust_0.8.15-1.dsc",
+      "bytes": 2304,
+      "project": "rust-xxhash-rust",
+      "sha256": "60d6d9cab099291556d89468b9e1f080a2ded90d052ee5a89952426be0f53d2f",
+      "source_url": "https://snapshot.debian.org/file/e3cf921d624b2658ace06f4ffba1eb406e174dc3",
+      "version": "0.8.15-1"
+    },
+    {
+      "asset": "rust-xxhash-rust__0.8.15-1__fdd20c542037__rust-xxhash-rust_0.8.15.orig.tar.gz",
+      "bytes": 21515,
+      "project": "rust-xxhash-rust",
+      "sha256": "fdd20c5420375476fbd4394763288da7eb0cc0b8c11deed431a91562af7335d3",
+      "source_url": "https://snapshot.debian.org/file/8442cde3a227d6ca10159ba61b741281f82423bc",
+      "version": "0.8.15-1"
+    },
+    {
+      "asset": "rustc__1.85.0+dfsg3-1__aa398a4a046d__rustc_1.85.0+dfsg3-1.debian.tar.xz",
+      "bytes": 146724,
+      "project": "rustc",
+      "sha256": "aa398a4a046d266eb2fd22df96b43c01ce190e1e09175929e44881faedd73aa4",
+      "source_url": "https://snapshot.debian.org/file/85bec55dd0dd6e63b54c2710660541bda2d26087",
+      "version": "1.85.0+dfsg3-1"
+    },
+    {
+      "asset": "rustc__1.85.0+dfsg3-1__d8221d3e2f35__rustc_1.85.0+dfsg3-1.dsc",
+      "bytes": 4366,
+      "project": "rustc",
+      "sha256": "d8221d3e2f3526b5911cb763a9afb2f2b3e6fc598b8279ca164c7db52022e56a",
+      "source_url": "https://snapshot.debian.org/file/3cbd9ff6428c06e8efd3fff96ce7acc691fac6d6",
+      "version": "1.85.0+dfsg3-1"
+    },
+    {
+      "asset": "rustc__1.85.0+dfsg3-1__664df803dead__rustc_1.85.0+dfsg3.orig-extra.tar.xz",
+      "bytes": 230724,
+      "project": "rustc",
+      "sha256": "664df803dead620ebe459dc37fae7a5bc4aabe09d9bae0dd81762ea18225a36d",
+      "source_url": "https://snapshot.debian.org/file/af0d5fbe39f5a1097852c697c3b36b40b9940a17",
+      "version": "1.85.0+dfsg3-1"
+    },
+    {
+      "asset": "rustc__1.85.0+dfsg3-1__8cfaf52ab168__rustc_1.85.0+dfsg3.orig.tar.xz",
+      "bytes": 83014324,
+      "project": "rustc",
+      "sha256": "8cfaf52ab168a12c3082b5956bcc16c8969d8791b2fe54ed5192672b25518af2",
+      "source_url": "https://snapshot.debian.org/file/aa985c57f710439dff08f3c695e8c405219d4967",
+      "version": "1.85.0+dfsg3-1"
+    },
+    {
+      "asset": "util-linux__2.41-5__20ad832160d5__util-linux_2.41-5.debian.tar.xz",
+      "bytes": 120144,
+      "project": "util-linux",
+      "sha256": "20ad832160d5ed8de4759ce00652f620ce642ab583c3c1c431b68a15cdba1d07",
+      "source_url": "https://snapshot.debian.org/file/512390fb0286cdcb4c34d9c5936d893649823f21",
+      "version": "2.41-5"
+    },
+    {
+      "asset": "util-linux__2.41-5__9e84dcc64170__util-linux_2.41-5.dsc",
+      "bytes": 4942,
+      "project": "util-linux",
+      "sha256": "9e84dcc64170262f850aa5fd65902846a1ebf054d556ab5c4ec17fa16b00e628",
+      "source_url": "https://snapshot.debian.org/file/7d9ff95920ae3cef0e101a9f9fdc446d14e86d6c",
+      "version": "2.41-5"
+    },
+    {
+      "asset": "util-linux__2.41-5__81ee93b3cfdf__util-linux_2.41.orig.tar.xz",
+      "bytes": 9535724,
+      "project": "util-linux",
+      "sha256": "81ee93b3cfdfeb7d7c4090cedeba1d7bbce9141fd0b501b686b3fe475ddca4c6",
+      "source_url": "https://snapshot.debian.org/file/1bf73b08c78569a52f9cd18f54b357e9135fa062",
+      "version": "2.41-5"
+    },
+    {
+      "asset": "windows-qemu-build-materials__11.1.1__277e12745c2a__windows-source-build-materials-20261005.tar.gz",
+      "bytes": 1378139,
+      "project": "windows-qemu-build-materials",
+      "sha256": "277e12745c2a9a047c56860f470b93dc6a9e56afb8b804740e8c5de80cc80b80",
+      "source_url": "https://github.com/Aibility-AI/workbench/releases/download/windows/handoff-v0.2.0-20261005/windows-source-build-materials-20261005.tar.gz",
+      "version": "11.1.1"
+    },
+    {
+      "asset": "windows-qemu-corresponding-source__11.1.1__92d8ca769805__dtc-1.7.2.tar.xz",
+      "bytes": 169668,
+      "project": "windows-qemu-corresponding-source",
+      "sha256": "92d8ca769805ae1f176204230438fe52808f4e1c7944053c9eec0e649b237539",
+      "source_url": "https://www.kernel.org/pub/software/utils/dtc/dtc-1.7.2.tar.xz",
+      "version": "11.1.1"
+    },
+    {
+      "asset": "windows-qemu-corresponding-source__11.1.1__34c0074a04dd__edk2-20d2e5a125e34fc8501026613a71549b2a1a3e54.tar.gz",
+      "bytes": 14567879,
+      "project": "windows-qemu-corresponding-source",
+      "sha256": "34c0074a04dde906e6f15e2d0dcc089333e56a07cf30e487f1cbc6af937ee8c3",
+      "source_url": "https://github.com/tianocore/edk2/archive/20d2e5a125e34fc8501026613a71549b2a1a3e54.tar.gz",
+      "version": "11.1.1"
+    },
+    {
+      "asset": "windows-qemu-corresponding-source__11.1.1__e6738e29597f__gcc-16.2.0.tar.xz",
+      "bytes": 107200820,
+      "project": "windows-qemu-corresponding-source",
+      "sha256": "e6738e29597f733270731aa90600f37ffdc045079dfc27ec7e8192cc81085c3e",
+      "source_url": "https://ftp.gnu.org/gnu/gcc/gcc-16.2.0/gcc-16.2.0.tar.xz",
+      "version": "11.1.1"
+    },
+    {
+      "asset": "windows-qemu-corresponding-source__11.1.1__b5739972d737__glib-2.86.0.tar.xz",
+      "bytes": 5679348,
+      "project": "windows-qemu-corresponding-source",
+      "sha256": "b5739972d737cfb0d6fd1e7f163dfe650e2e03740bb3b8d408e4d1faea580d6d",
+      "source_url": "https://download.gnome.org/sources/glib/2.86/glib-2.86.0.tar.xz",
+      "version": "11.1.1"
+    },
+    {
+      "asset": "windows-qemu-corresponding-source__11.1.1__b428139fecd7__ipxe-7aee315f61aaf1be6d2fff26339f28a1137231a5.tar.gz",
+      "bytes": 2594880,
+      "project": "windows-qemu-corresponding-source",
+      "sha256": "b428139fecd7f93e95ee13d00d6b3958e87c5b9a4839aea126bf0cd5223e23ff",
+      "source_url": "https://github.com/ipxe/ipxe/archive/7aee315f61aaf1be6d2fff26339f28a1137231a5.tar.gz",
+      "version": "11.1.1"
+    },
+    {
+      "asset": "windows-qemu-corresponding-source__11.1.1__f3a3082a23b3__libffi-3.5.2.tar.gz",
+      "bytes": 1423124,
+      "project": "windows-qemu-corresponding-source",
+      "sha256": "f3a3082a23b37c293a4fcd1053147b371f2ff91fa7ea1b2a52e335676bac82dc",
+      "source_url": "https://github.com/libffi/libffi/releases/download/v3.5.2/libffi-3.5.2.tar.gz",
+      "version": "11.1.1"
+    },
+    {
+      "asset": "windows-qemu-corresponding-source__11.1.1__3970542143b7__libslirp-v4.9.1.tar.gz",
+      "bytes": 173320,
+      "project": "windows-qemu-corresponding-source",
+      "sha256": "3970542143b7c11e6a09a4d2b50f30a133473c41f15ed0bdcc3b7a1c450d9a5c",
+      "source_url": "https://gitlab.freedesktop.org/slirp/libslirp/-/archive/v4.9.1/libslirp-v4.9.1.tar.gz",
+      "version": "11.1.1"
+    },
+    {
+      "asset": "windows-qemu-corresponding-source__11.1.1__aa4f2ee56d6a__mingw-w64-4564ee4b5063097bf747af3a3f8270a28adff820.tar.gz",
+      "bytes": 15805288,
+      "project": "windows-qemu-corresponding-source",
+      "sha256": "aa4f2ee56d6a29781727f90799786be49bedb1df6f99afb6123d9cd87fb4aa9e",
+      "source_url": "https://github.com/mingw-w64/mingw-w64/archive/4564ee4b5063097bf747af3a3f8270a28adff820.tar.gz",
+      "version": "11.1.1"
+    },
+    {
+      "asset": "windows-qemu-corresponding-source__11.1.1__15fbc5aba6be__pcre2-10.46.tar.bz2",
+      "bytes": 2035354,
+      "project": "windows-qemu-corresponding-source",
+      "sha256": "15fbc5aba6beee0b17aecb04602ae39432393aba1ebd8e39b7cabf7db883299f",
+      "source_url": "https://github.com/PCRE2Project/pcre2/releases/download/pcre2-10.46/pcre2-10.46.tar.bz2",
+      "version": "11.1.1"
+    },
+    {
+      "asset": "windows-qemu-corresponding-source__11.1.1__d09c44ebc3bd__pixman-0.46.4.tar.gz",
+      "bytes": 827198,
+      "project": "windows-qemu-corresponding-source",
+      "sha256": "d09c44ebc3bd5bee7021c79f922fe8fb2fb57f7320f55e97ff9914d2346a591c",
+      "source_url": "https://cairographics.org/releases/pixman-0.46.4.tar.gz",
+      "version": "11.1.1"
+    },
+    {
+      "asset": "windows-qemu-corresponding-source__11.1.1__4ab5af85ec61__proxy-libintl-33934de09af6a6627eb44e310a8079df009abdbb.tar.gz",
+      "bytes": 13064,
+      "project": "windows-qemu-corresponding-source",
+      "sha256": "4ab5af85ec6124cb526a15c58bbc0877d241807e30855779808dbf9292d861aa",
+      "source_url": "https://github.com/frida/proxy-libintl/archive/33934de09af6a6627eb44e310a8079df009abdbb.tar.gz",
+      "version": "11.1.1"
+    },
+    {
+      "asset": "windows-qemu-corresponding-source__11.1.1__079ffbff8a71__qemu-11.1.1.tar.xz",
+      "bytes": 141888716,
+      "project": "windows-qemu-corresponding-source",
+      "sha256": "079ffbff8a7111bbc89022107cbabf3bbfd614d5fc9d7cc675991196aca12482",
+      "source_url": "https://download.qemu.org/qemu-11.1.1.tar.xz",
+      "version": "11.1.1"
+    },
+    {
+      "asset": "windows-qemu-corresponding-source__11.1.1__8c9770e558b2__qemu-36d8d02dc8c45780cae74e2ba7a6135b95c16f81.tar.gz",
+      "bytes": 5332851,
+      "project": "windows-qemu-corresponding-source",
+      "sha256": "8c9770e558b20c72ea86dce111d4fd9530426028bd040f5b7b7fc931e284cc51",
+      "source_url": "https://github.com/qemu/qemu/archive/36d8d02dc8c45780cae74e2ba7a6135b95c16f81.tar.gz",
+      "version": "11.1.1"
+    },
+    {
+      "asset": "windows-qemu-corresponding-source__11.1.1__d62c33a3ea52__qemu-3e570a9ae9b966362596fd649f2cbcff0b2199c9.tar.gz",
+      "bytes": 29474642,
+      "project": "windows-qemu-corresponding-source",
+      "sha256": "d62c33a3ea52bc2c7614bf1dcc02a0c0941131733dcde5a90cdb05b02ff65678",
+      "source_url": "https://github.com/qemu/qemu/archive/3e570a9ae9b966362596fd649f2cbcff0b2199c9.tar.gz",
+      "version": "11.1.1"
+    },
+    {
+      "asset": "windows-qemu-corresponding-source__11.1.1__c7dcf9476cb5__qemu-5b6fb069378e61c45c577bbec3d7ef60367f7e4c.tar.gz",
+      "bytes": 6086127,
+      "project": "windows-qemu-corresponding-source",
+      "sha256": "c7dcf9476cb52f7f35badc1c2384e670f15dd1bcbfdb080fb786815a18438c05",
+      "source_url": "https://github.com/qemu/qemu/archive/5b6fb069378e61c45c577bbec3d7ef60367f7e4c.tar.gz",
+      "version": "11.1.1"
+    },
+    {
+      "asset": "windows-qemu-corresponding-source__11.1.1__30f8241dde33__qemu-7e018385103cd7a571b9ea0d6f994af6b1129fe7.tar.gz",
+      "bytes": 13981592,
+      "project": "windows-qemu-corresponding-source",
+      "sha256": "30f8241dde33968ad406c7adac1aed99deadb1d0c4ead0065174f3a40348f643",
+      "source_url": "https://github.com/qemu/qemu/archive/7e018385103cd7a571b9ea0d6f994af6b1129fe7.tar.gz",
+      "version": "11.1.1"
+    },
+    {
+      "asset": "windows-qemu-corresponding-source__11.1.1__d9c99b67174a__qemu-b1b876ca70f1b240852ad24e7d3ff788f2c47153.tar.gz",
+      "bytes": 17025923,
+      "project": "windows-qemu-corresponding-source",
+      "sha256": "d9c99b67174ab80a957e9048cdcf17d5fb6dda9602d8b6c254e77b4bd2c4208b",
+      "source_url": "https://github.com/qemu/qemu/archive/b1b876ca70f1b240852ad24e7d3ff788f2c47153.tar.gz",
+      "version": "11.1.1"
+    },
+    {
+      "asset": "windows-qemu-corresponding-source__11.1.1__cb55c73c5f44__tomli-2.2.1-py3-none-any.whl",
+      "bytes": 14257,
+      "project": "windows-qemu-corresponding-source",
+      "sha256": "cb55c73c5f4408779d0cf3eef9f762b9c9f147a77de7b258bef0a5628adc85cc",
+      "source_url": "https://files.pythonhosted.org/packages/6e/c2/61d3e0f47e2b74ef40a68b9e6ad5984f6241a942f7cd3bbfbdbd03861ea9/tomli-2.2.1-py3-none-any.whl",
+      "version": "11.1.1"
+    },
+    {
+      "asset": "windows-qemu-corresponding-source__11.1.1__9a93b2b7dfda__zlib-1.3.1.tar.gz",
+      "bytes": 1512791,
+      "project": "windows-qemu-corresponding-source",
+      "sha256": "9a93b2b7dfdac77ceba5a558a580e74667dd6fede4585b91eefb60f03b72df23",
+      "source_url": "https://zlib.net/fossils/zlib-1.3.1.tar.gz",
+      "version": "11.1.1"
+    }
+  ],
+  "published_at": "2026-10-09T08:14:35Z",
+  "repository": "Aibility-AI/licences",
+  "schema": 1,
+  "source_release": "sources-2026-10-09.3"
+}
