@@ -1,0 +1,16 @@
+{
+  "assets": [
+    {
+      "asset": "go-toolchain__go1.27.2__03495da2ba64__go-toolchain",
+      "bytes": 35134614,
+      "project": "go-toolchain",
+      "sha256": "03495da2ba64894d40f5c4992e49454fa78b50690604ff92b6afff5081b76e62",
+      "source_url": "https://go.dev/dl/go1.27.2.src.tar.gz",
+      "version": "go1.27.2"
+    }
+  ],
+  "published_at": "2026-10-09T05:53:21Z",
+  "repository": "Aibility-AI/licences",
+  "schema": 1,
+  "source_release": "sources-2026-10-09.2"
+}
