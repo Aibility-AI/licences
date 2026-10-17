@@ -1,0 +1,40 @@
+{
+  "assets": [
+    {
+      "asset": "linux-signed-arm64__6.12.111+1__1de201bb8396__linux-signed-arm64_6.12.111+1.dsc",
+      "bytes": 9683,
+      "project": "linux-signed-arm64",
+      "sha256": "1de201bb8396be10efc2a45ca1b247cef8aff33516877d37799fba356205af08",
+      "source_url": "https://snapshot.debian.org/file/3ee9a23ed25f0c924619559e436ff0906e6a4e4c",
+      "version": "6.12.111+1"
+    },
+    {
+      "asset": "usrmerge__39+nmu2__989e4db1bb4c__usrmerge_39+nmu2.dsc",
+      "bytes": 1720,
+      "project": "usrmerge",
+      "sha256": "989e4db1bb4c246e84bfcd69a17a28ce8018d51722a0c34b0507ef1466e01f97",
+      "source_url": "https://snapshot.debian.org/file/8deeacbd858cd9817e079fea54071ef69569539d",
+      "version": "39+nmu2"
+    },
+    {
+      "asset": "usrmerge__39+nmu2__b923b6563cc4__usrmerge_39+nmu2.tar.xz",
+      "bytes": 15024,
+      "project": "usrmerge",
+      "sha256": "b923b6563cc4f18b95b97682d0611576744b9958df773aebd7a35824beb25735",
+      "source_url": "https://snapshot.debian.org/file/5d3acdaa285cbe64a7bee85c9167133ee41023e3",
+      "version": "39+nmu2"
+    },
+    {
+      "asset": "linux-signed-arm64__6.12.111+1__fc91cbc6f7bc__linux-signed-arm64_6.12.111+1.tar.xz",
+      "bytes": 1054824,
+      "project": "linux-signed-arm64",
+      "sha256": "fc91cbc6f7bc8c083aaed4f030a2109dc0a3099135be7c748a66f7b94edaa530",
+      "source_url": "https://snapshot.debian.org/file/4b94e680f42391e7ca5f11bef7ae8e8ed9711717",
+      "version": "6.12.111+1"
+    }
+  ],
+  "published_at": "2026-10-17T00:28:41Z",
+  "repository": "Aibility-AI/licences",
+  "schema": 1,
+  "source_release": "sources-2026-10-17.1"
+}
