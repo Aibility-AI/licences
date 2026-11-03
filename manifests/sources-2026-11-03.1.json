@@ -1,0 +1,64 @@
+{
+  "assets": [
+    {
+      "asset": "linux-qemu-build-controlled-dependencies.py__release-commit__c6fa96b86511__build-controlled-dependencies.py",
+      "bytes": 5241,
+      "project": "linux-qemu-build-controlled-dependencies.py",
+      "repository_path": "packaging/linux/build-controlled-dependencies.py",
+      "sha256": "c6fa96b8651114774463abc4bb29f16dc5774e579db98d2f42fcd10d7d7b5028",
+      "version": "release-commit"
+    },
+    {
+      "asset": "linux-qemu-build-controlled-qemu.py__release-commit__b39b618637bf__build-controlled-qemu.py",
+      "bytes": 6088,
+      "project": "linux-qemu-build-controlled-qemu.py",
+      "repository_path": "packaging/linux/build-controlled-qemu.py",
+      "sha256": "b39b618637bf324bd9aff0f964cec89b615ea21747666871752bf2088972067e",
+      "version": "release-commit"
+    },
+    {
+      "asset": "linux-qemu-build-redistribution-materials.py__release-commit__166f9ff91203__build-redistribution-materials.py",
+      "bytes": 5015,
+      "project": "linux-qemu-build-redistribution-materials.py",
+      "repository_path": "packaging/linux/build-redistribution-materials.py",
+      "sha256": "166f9ff91203826ab2557c4a5038b6a12f053a5d29748eb53180797caee657ff",
+      "version": "release-commit"
+    },
+    {
+      "asset": "linux-qemu-fetch-qemu-sources.py__release-commit__d4c024777f97__fetch-qemu-sources.py",
+      "bytes": 1623,
+      "project": "linux-qemu-fetch-qemu-sources.py",
+      "repository_path": "packaging/linux/fetch-qemu-sources.py",
+      "sha256": "d4c024777f9768b4a82510de4ecfd367e35ed84f60000768c32bb78f4da28fe3",
+      "version": "release-commit"
+    },
+    {
+      "asset": "linux-qemu-package-controlled-qemu.py__release-commit__b195134edf32__package-controlled-qemu.py",
+      "bytes": 4565,
+      "project": "linux-qemu-package-controlled-qemu.py",
+      "repository_path": "packaging/linux/package-controlled-qemu.py",
+      "sha256": "b195134edf323f52bd9570151cc292762d6eab209c9ad7611eb028d6a016ded7",
+      "version": "release-commit"
+    },
+    {
+      "asset": "linux-qemu-prepare-linux-qemu-runtime__release-commit__253c5fe31de1__prepare-linux-qemu-runtime",
+      "bytes": 1202,
+      "project": "linux-qemu-prepare-linux-qemu-runtime",
+      "repository_path": "scripts/release/prepare-linux-qemu-runtime",
+      "sha256": "253c5fe31de18b210307e41a869e23d1cd6c1b7364d202d7ac884fd86c4214e6",
+      "version": "release-commit"
+    },
+    {
+      "asset": "linux-qemu-qemu-source-lock.json__release-commit__a2e68180ddee__qemu-source-lock.json",
+      "bytes": 4784,
+      "project": "linux-qemu-qemu-source-lock.json",
+      "repository_path": "packaging/linux/qemu-source-lock.json",
+      "sha256": "a2e68180ddee608a7bada5853b43debe93493f0c7161d078c87afea0520c536c",
+      "version": "release-commit"
+    }
+  ],
+  "published_at": "2026-11-03T07:05:42Z",
+  "repository": "Aibility-AI/licences",
+  "schema": 1,
+  "source_release": "sources-2026-11-03.1"
+}
